@@ -1,0 +1,1100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rules and directions given by Coll: Edmond Harvy, and the rest of the Commissioners for the Customs, to the collectors and other officers, to be by them observed, in collecting the customs, and the mannagement [sic] of their respective offices</title>
+            <author>England and Wales. Commissioners of Customs.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 100 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70192</idno>
+            <idno type="STC">Wing H1094A</idno>
+            <idno type="STC">Wing R2245</idno>
+            <idno type="STC">ESTC R11866</idno>
+            <idno type="EEBO-CITATION">99834809</idno>
+            <idno type="PROQUEST">99834809</idno>
+            <idno type="VID">39352</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70192)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39352)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 383:6 or 1897:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Rules and directions given by Coll: Edmond Harvy, and the rest of the Commissioners for the Customs, to the collectors and other officers, to be by them observed, in collecting the customs, and the mannagement [sic] of their respective offices</title>
+                  <author>England and Wales. Commissioners of Customs.</author>
+                  <author>Harvey, Edmund, 1594-1673.</author>
+               </titleStmt>
+               <extent>[2], 30, [5] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by S. Griffin, for T. Hewer, and Hannah Blacklock,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Identified at reel 383:6 as Wing H1094A, and at reel 1897:2 as Wing R2245.</note>
+                  <note>Reproductions of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Customs administration --  England --  Early works to 1800.</term>
+               <term>Customs administration --  Early works to 1800.</term>
+               <term>Tariff --  England --  Early works to 1800.</term>
+               <term>Tariff --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:39352:1"/>
+            <pb facs="tcp:39352:1"/>
+            <p>RULES AND DIRECTIONS GIVEN BY Coll: Edmond Harvy, And the reſt of the <hi>COMMISSIONERS</hi> FOR THE CUSTOMS, To the Collectors and other Officers, to be by them obſerved, in collecting the Cuſtoms, and the mannagement of their reſpective Offices.</p>
+            <q>
+               <l>Ordine ſervato mundus ſervatur, at illo.</l>
+               <l>Neglecto peſſum totus eſt orbis abit.</l>
+            </q>
+            <p>LONDON, Printed by <hi>S. Griffin,</hi> for <hi>T. Hewer,</hi> and <hi>Hannah Blacklock,</hi> 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="collection">
+            <pb facs="tcp:39352:2"/>
+            <pb n="1" facs="tcp:39352:2"/>
+            <div type="rules">
+               <head>Rules and Directions given by Colonell <hi>Edmond Harvy,</hi> and the reſt of the Commiſſioners for the Cu<g ref="char:EOLhyphen"/>ſtomes, to the Collectors, &amp; other Officers, to be by them obſerved in Collecting the Cuſtomes, and the mannagement of their re<g ref="char:EOLhyphen"/>ſpective Offices.</head>
+               <p>
+                  <note n="(a)" place="margin">Notice to be given to the Collector of all ſhips com<g ref="char:EOLhyphen"/>ming in, and going out.</note> THe Surveior, Searcher, or other Officer attending in any Port, or Créek, ſhall give notice to the Collector of the Head Port, to which they do belong, with all convenient ſpéed, of every ſhip that commeth in, or goeth out, at any tide, by way of Merchandize, or with goods from any other Port, by Certificate.</p>
+               <p>
+                  <note n="*" place="margin">Shippers Book.</note> There ſhall be one ſhippers Book outwards, and another inwards, in every Cuſtome-houſe, wherein every ſhip going out, or comming in by way of Merchandize, or with Commodities to or from any Ports, by Certificate, ſhall enter openly in the Cuſtome-houſe the name of the ſhip, and of the Maſter, the Burthen, of whence, and to or from what place it is fraighted, before he take in lading, or diſcharge any Goods, Wares, or Merchandizes whatſoever; whereof the reſpe<g ref="char:EOLhyphen"/>ctive Surveiors are to take care that the ſame be done accordingly.</p>
+               <p>
+                  <note n="(b)" place="margin">The Maſter, or Purſer to deliver in the Contents of their ladings on Oath in<g ref="char:EOLhyphen"/>wards.</note> The Maſter, or Purſer, of every ſhip comming in by way of Mer<g ref="char:EOLhyphen"/>chandize, ſhall deliver under his hand, and upon his Oath. before the Collector, or Checque, one Bill of the particulars, and contents of the whole lading of the ſhip, with the names of the ſeverall Merchants, and the Mark, Package, &amp; outward form of the goods and Merchan<g ref="char:EOLhyphen"/>dize, according to his knowledge; and ſhall alſo make Declaration up<g ref="char:EOLhyphen"/>on Oath, that he hath not broken bulk, ſince he came into the Port, nor into any other Port of this Nation, or the dominions thereof, other<g ref="char:EOLhyphen"/>wiſe then in the ſaid Bill ſhall be expreſſed, and ſhall anſwer to all ſuch other queſtions, concerning the goods laden in the ſaid ſhip, as ſhall be demanded of him by the ſaid Collector: but in caſe he hath broken bulk in any other Port, then he ſhall deliver likewiſe upon his Oath, the particulars of the goods ſo delivered in the Port where he did firſt break bulk, which entry and Declaration ſo made as aforeſaid, ſhall be entred into the ſhips Brook inwards, after the ſhips entry, and be filed together in order, <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> with the ſhips Book, and a <note n="(c)" place="margin">The Oath to be recorded.</note> 
+                  <hi>Memorandum</hi> of every ſuch Oath as aforcſaid, upon the particular entry, ſhall remain, and be kept ſafely in the Cuſtome-houſe for a Record thereof.</p>
+               <p>
+                  <note n="(d)" place="margin">Outwards.</note> Every Maſter of a ſhip that ſhal lade any goods, or Merchandize for the Parts beyond the Seas, ſhall enter the ſhip with the Collector, be<g ref="char:EOLhyphen"/>fore he take in any goods, and before his departure ſhall give notice of his whole lading, with the names of the Merchants that have laden goods in him, and ſhall anſwer upon Oath to ſuch queſtions, concer<g ref="char:EOLhyphen"/>ning
+<pb n="2" facs="tcp:39352:3"/>the ſame, as ſhall be demanded of him, upon pain of the forfeiture of one hundred pounds.</p>
+               <p>
+                  <note n="(e)" place="margin">Ships to be entred within four dayes af<g ref="char:EOLhyphen"/>ter arrivall.</note> All maſters, or purſers of ſhips, arriving from any forreign parts, ſhall within four dayes after their arrivall, make entry of their ſhip, or veſſell, in the ſaid Port as aforeſaid, and ſhall unlade, and diſcharge the ſame withall convenient ſpeed.</p>
+               <p>
+                  <note n="(f)" place="margin">The Maſter to forfeit one hundred pound for goods ſhipped at unlawfull time or place.</note> The Maſter of any ſhip, that ſhall ſuffer goods to be landed or ſhipped without payment of ſubſidy, and other duties, or at an unlaw<g ref="char:EOLhyphen"/>full time, or place, doth forfeit an hundred pounds, and make confiſca<g ref="char:EOLhyphen"/>ble all the ſaid goods.</p>
+               <p>
+                  <note n="(g)" place="margin">Strangers veſ<g ref="char:EOLhyphen"/>ſels not to trade from Port to Port.</note> As perſon may lade, or carry any goods, or Merchandire, from port to port within this Nation, in any Ship, or bottome, whereof any ſtranger is owner, Maſter, or partner, upon paine of forfeiting the goods.</p>
+               <p>
+                  <note n="(h)" place="margin">Entries Out<g ref="char:EOLhyphen"/>wards.</note> Every Merchant or other that will tranſport any goods by may of Merchandize for forreigne parts ſhall! make his entry particularly thereof with the Collectors, by a bill under his hand or the hand of his Asſigne, with the name of the Ship, the Maſter, the burthen, of whence &amp; to what place it is fraighted, with the marks, and number of the packs, Cask, Fardels, or other bulk, and the true Quantity and Quality of the goods therein contained, which hill ſhall be forthwith entred into a Book by the Collector, and delivered to the Checque to be entred by him likewiſe, and having received the ſame from the Checque, ſhall file and keep a bill of every ſhip together, as they ſhall be entred, and the true value of the goods, and of the Cuſtomes, Sub<g ref="char:EOLhyphen"/>ſidies and duties thereupon due, ſhall be likewiſe ſet forth and charged in the books at the time the Merchant maketh his entry.</p>
+               <p>
+                  <note n="(i)" place="margin">Warrants &amp;c. to be paſſed in Cuſtome-houſe onely.</note> No entry nor agreement with any Merchant or others for cuſtome or Subſidie ſhall vs made by the Collector, or other, nor any Cocquet warrant or Certificate ſealed, or ſubſcribed, but openly in the Cuſtome-houſe.</p>
+               <p>
+                  <note n="(k)" place="margin">The warrants to be delivered to the Officers before goods be landed or ſhipped.</note> The Searcher or Surveior ſhall have all Cocquets, Certificates and Warrants delivered unto him, before the ſhipping, or landing of any goods therein contained, &amp; at the time of the ſhipping or landing thereof ſhall have the ſaid Cocquets, Certificates and Warrants with him, that the goods may be thereby examined and tryed.</p>
+               <p>
+                  <note n="(l)" place="margin">Every Mer<g ref="char:EOLhyphen"/>chant to have Cocquet, &amp;c. by himſelf.</note> Every Merchant ſhal paſſe his particular Cocquet and Certificate, by himſelf ſealed, and ſubſcribed openly in the Cuſtome-houſe, by the Collector and Checque, bearing date the ſame day he entred his goods.</p>
+               <p>
+                  <note n="(m)" place="margin">Entries by Licenſe.</note> All entries Inwards, or Outwards, by licence, ſhall be endorſed upon each particular licence, with the name of the Merchant, the date of the Cocquet or entry, and the particular quantities ſhipped or landed by vertue thereof ſhall be alſo ſet out and entred in the books to which they properly belong.</p>
+               <p>
+                  <note n="(n)" place="margin">
+                     <hi>Goods out<g ref="char:EOLhyphen"/>wards entred in one ſhip, but laden in another.</hi>
+                  </note> All Merchandize cuſtomed outwards, in any ſhip or veſſel, which for ſome cauſe cannot be laden aboard the ſame ſhip, ſhall be ap<g ref="char:EOLhyphen"/>pointed another ſhip by Certificate, openly ſealed, ſubſcribed and de<g ref="char:EOLhyphen"/>livered in the Cuſtome-houſe upon the oathes of the Searcher or
+<pb n="3" facs="tcp:39352:3"/>Surveior, and the owners thereof, openly taken, that the ſaid goods did not paſſe according to the former Cocquet.</p>
+               <p>
+                  <note n="(o)" place="margin">Entries In<g ref="char:EOLhyphen"/>wards.</note> Every Merchant or other that ſhall enter Merchandiſe Inwards, ſhal make entry thereof particularly, and deliver a bill thereof at large under his hand, or the hand of his A<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nes, to the Collectors, with the name of the ſhip, and of the Maſter, the burthen, of whence, and from what place it was fraighted, with the marks and numbers of the Fardels, bulk, and Package in the Margent, and the true quan<g ref="char:EOLhyphen"/>tities and qualities of the goods therein contained, and the ſaid Col<g ref="char:EOLhyphen"/>lectors ſhall with all convenient ſpeed caſt up the value of the goods and Merchandize therein, according to the book of Rates, or other<g ref="char:EOLhyphen"/>wiſe if not therein rated, as is by the ſaid book directed, and the cuſtome and ſubſidie thereupon due, and write it upon the ſaid bill, with the number and date of the bill, according to which it ſhall be pre<g ref="char:EOLhyphen"/>ſently entred in the book Inwards, to be kept by the ſaid Collector, and then by him delivered to the Checque to be likewiſe entred, accor<g ref="char:EOLhyphen"/>ding to which bill, another being ſubſcribed by the ſaid Collector and Checque, numbred and dated as the former, ſhall be to the Surveior or Searcher or waiter, a warrant to ſuffer the wares and Merchandizes therein contained to be landed and diſcharged accor<g ref="char:EOLhyphen"/>dingly, and the ſaid originall bill, the ſaid Collectors ſhall receive back from the ſaid Checque.</p>
+               <p>
+                  <note n="(p)" place="margin">Bills at ſight.</note> All manner of wares and Merchandize that any Merchant entred at ſight, ſhall be taken up by a warrant for view, dated the day of the entry thereof, ſubſcribed, and delivered openly in the Cuſtome-houſe to the Searcher or Surveior, who ſhall ſee the ſame brought to the Cu<g ref="char:EOLhyphen"/>ſtome-houſe key or wharf, and give knowledge thereof to the ſaid offi<g ref="char:EOLhyphen"/>cers, which officers ſhal ſuffer the ſaid goods to be taken up in the pre<g ref="char:EOLhyphen"/>ſence of the Surveior, or Searcher, and viewed in ſome convenient place, and the owner thereof ſhall forthwith make an entry thereof partivularly under his hand or the hand of his aſſignes, with the Col<g ref="char:EOLhyphen"/>lector and Checque, and thereupon a warrant ſhall be made for the clearing and paſſing the wares and Merchandize as aforeſaid,</p>
+               <p>
+                  <note n="(q)" place="margin">The Collector to appoint Officers to the Ships.</note> In every Port where more then one, whether Searcher, Sur<g ref="char:EOLhyphen"/>veior, or Waiters, are appointed to attend, there the Collectors of the ſame Port ſhall nominate, and direct under his hand which of them and how many of them ſhall take charge of every reſpective ſhip going forth or comming into the ſame Port either from beyond Sea or from any other Port within this Nation, to ſee the goods and Merchandize therein cleared and diſcharged, according to ſuch warrants as he or they ſhall receive from the Collector and Checque.</p>
+               <p>
+                  <note n="(r)" place="margin">Bonds of Im<g ref="char:EOLhyphen"/>ployment.</note> Every Merchant ſtranger that entreth any Merchandize brought from beyond the Seas, ſhall enter into bond with the Collector for Imployment to be made according to the ſtatute.</p>
+               <p>
+                  <note n="(s)" place="margin">The day of going out, and comming in of ſhips to be entred.</note> Every Searcher and Surveior ſhall enter into a book, the day of the going out, and comming in of every ſhip by way of Merchan<g ref="char:EOLhyphen"/>dize, or by certificate from another Port, with the name of the ſhip, and Maſter, and the date of every mans Cocquet, Warrant, and Certificate, as they in order of the daies of every month ſhall fall out.</p>
+               <pb n="4" facs="tcp:39352:4"/>
+               <p>
+                  <note n="(t)" place="margin">Officers ma<g ref="char:EOLhyphen"/>king falſe warrants.</note> Every officer that makes any Cocquet, or Warrant, contrary to or diſagreeing to the entry of any goods, or Merchandize, ſhall be fined and puniſhed according to his offence.</p>
+               <p>
+                  <note n="(u)" place="margin">Strangers Goods entred in Engliſh-mens names.</note> Every Merchant Engliſh or Stranger, that ſhall enter the goods of a ſtranger in the name of an Engliſh-man, ſhall forfeit and loſe the goods ſo entred, and all his goods perſonall.</p>
+               <p>
+                  <note n="(w)" place="margin">Engliſhmen inhabiting in orraign parts.</note> Engliſh-men inhabiting beyond the Seas and ſworn ſubjects to forreign Princes, are to pay Cuſtome, and other duties, as ſtrang<g ref="char:EOLhyphen"/>ers, ſo long as they ſo continue.</p>
+               <p>
+                  <note n="(x)" place="margin">Denizens to pay as ſtran<g ref="char:EOLhyphen"/>gers.</note> Every one born out of the Nation, and afterwards made Denizen, ſhall pay like Cuſtome, as before he was made Denizen, except Mer<g ref="char:EOLhyphen"/>chants of the Still<g ref="char:punc">▪</g>yard of London.</p>
+               <p>
+                  <note n="(y)" place="margin">Searchers conniving at exportation of Bullion, &amp;c.</note> If any Searcher ſhall give way to tranſportation of monies, or un<g ref="char:EOLhyphen"/>lawfull pasſengers, he ſhall be fined and puniſhed according to the na<g ref="char:EOLhyphen"/>ture of the offence.</p>
+               <p>
+                  <note n="(z)" place="margin">Goods Cuſto<g ref="char:EOLhyphen"/>mable.</note> In paſſing of goods from Port to Port within this Nation, the Collector and other Officers are to underſtand, by goods cuſtomable all wares and commodities growing and wrought or manufactured within this Nation, and all forreign Commodities, &amp; Merchandizes, which have been imported, &amp; remained in this Nati<g ref="char:EOLhyphen"/>on, <hi>viz.</hi> by an Engliſh-man above twelve months, and by a ſtrang<g ref="char:EOLhyphen"/>er above nine months, and the property altered by the ſale thereof made by the firſt Importer And</p>
+               <p>
+                  <note n="*" place="margin">Goods prohi<g ref="char:EOLhyphen"/>bited.</note> By goods prohibited to be exported, monies, Bullion, otherwiſe then by ſpeciall Order &amp; Warrants as in the compaſition Trade, <hi>&amp;c.</hi> Plate, Iewels, Woollen Yarne, and Cloth undreſt, Horſes, Mares, Gel<g ref="char:EOLhyphen"/>dings, Oxen, Rine, Sheep, Copper, Braſſ, Bell-metall, Pann<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>tall, Gun-metall, Shruffe, white aſhes, Butter, Cheeſe, Wood, Corne, when it is above the price limited by Satute, as al<g ref="char:EOLhyphen"/>ſo Leather, Hides, Tallow, and all things made thereof, skins of Sheep, Pelts, and skins of Stags, Hinds, Bucks, Does, or fawne, Goats, or Ridd, wool, worſted Yarke, Woollen-Flocks, Woelfells, Fullers earth, And Clay of what kind ſoever.</p>
+               <p>
+                  <note n="‖" place="margin">What is meant by Grocery and Saltery wares</note> It is further to be noted, that by Grocery and Saltery wares are meant forreign Commodities only which have been formerly brought from beyond the Seas, and the duties payed Inwards, and that no Merchandize or Manufacture of England or Wales, are to paſſe under thoſe generall names.</p>
+               <p>
+                  <note n="*" place="margin">Articles an<g ref="char:EOLhyphen"/>nexed to the book of Rates.</note> The Collectors and other officers of the Cuſtomes, are likewiſe diligently to obſerve, and performe the Articles, Rules, and directi<g ref="char:EOLhyphen"/>ons annexed to the preſent book of rates, and ſuch others as are di<g ref="char:EOLhyphen"/>rected by an Ordinance of Parliament publiſhed the ſixtenth of De<g ref="char:EOLhyphen"/>cember, one thouſand ſix hundred forty and ſeaven, or by a late Act, made for the raiſing and leavying of money by way of Exciſe, or by any other Statute, Act, or Ordinance of Parliament, now inforce, for or concerning the payment of the ſubſidy of Tunnage, and Poundage, or the importation or exportation or tranſportation of goods Prohibited, and all other Acts and Orders for any other duty or Impoſt, payable in the Commiſſioners of the Cuſtomes. And to obſerve the ſeverall
+<pb n="5" facs="tcp:39352:4"/>things that reſpectively appertain to the duty of their places, and to take care that in all things they proceed accordingly.</p>
+            </div>
+            <div type="rules">
+               <head>Rules and Directions for the Collector in levy<g ref="char:EOLhyphen"/>ing the Cuſtomes.</head>
+               <p>
+                  <note n="(a)" place="margin">What Eng<g ref="char:EOLhyphen"/>liſhmen and ſtrangers ſhall pay.</note> HE is to collect five in the hundred, as a generall ſubſidy, as well upon the Merchant Engliſh, as the Merchant Stranger; and the petty Cuſtoms of three pence in the pound more upon all ſtran<g ref="char:EOLhyphen"/>gers.</p>
+               <p>
+                  <note n="(b)" place="margin">What ſtran<g ref="char:EOLhyphen"/>gers ſhall pay upon Native Commodities.</note> He is alſo to Collect five in the hundred over and above the five aforeſaid upon the Merchant ſtranger, for all Native Commodities, or Manufactures made thereof and the Merchant Stranger for thoſe Commodities, for which he is to pay double Subſidy, or Cuſtome, <hi>viz.</hi> for Lead, Tin, Woollen Cloth, and all or any Manufactures made of Wooll, or part Wooll, is alſo to pay double Petty Cuſtome; and upon Woollen Cloth, he is alſo to pay the old Cuſtome of <hi>xiij d.</hi> up<g ref="char:EOLhyphen"/>on every Cloth exported, and proportionably upon now Draperies, as they are reckoned for a Cloth in the inſtructions annexed to the Book of Rates.</p>
+               <p>
+                  <note n="(c)" place="margin">Lead.</note> All Lead exported, whether by Merchant Engliſh, or by Merchant Stranger, is to pay over and above the Subſidy and Cuſtome, the old Cuſtome, <hi>viz. iij d.</hi> in the Sow, which is two ſhillings upon the fodder.</p>
+               <p>
+                  <note n="(d)" place="margin">Snowt Towe.</note> That Snowte Tow be rated at forty ſhillings <hi>per cent,</hi> as it payeth in <hi>London.</hi>
+               </p>
+               <p>
+                  <note n="(e)" place="margin">Wines.</note> That all wines whatſoever be accounted of the growth of the Le<g ref="char:EOLhyphen"/>vant, except Rheniſh, and French VVines, and to pay Cuſtome ac<g ref="char:EOLhyphen"/>cordingly; &amp; that <note n="(f)" place="margin">Prizage,</note> no wines whatſoever be exempted from payment of Cuſtome under pretence of Prizage VVines, or the duty called Pri<g ref="char:EOLhyphen"/>zage.</p>
+               <p>
+                  <note n="(g)" place="margin">Pan-tiles.</note> That all Pan-tiles from <hi>Holland,</hi> or elſe-where, ſhall pay after the Rate of five pound <hi>per</hi> thouſand.</p>
+               <p>
+                  <note n="(h)" place="margin">Logwood.</note> That all Log-wood <hi>alias</hi> Block-wood, or Campeachy wood, do pay after the Rate of eighty pound <hi>per</hi> Tun.</p>
+               <p>
+                  <note n="(i)" place="margin">Beer.</note> That all Beer exported by Engliſh, do pay beſides the two ſhillings Subſidy in the Book of Rates, eight ſhillings ſix pence <hi>per</hi> Tun by an Engliſh man, and ten ſhillings by a ſtranger <hi>per</hi> Statute.</p>
+               <p>
+                  <note n="(k)" place="margin">Tobaccoes.</note> That one penny <hi>per</hi> pound be leavied on all Tobaccoes of the Eng<g ref="char:EOLhyphen"/>liſh Plantations beyond Sea; and upon all other Tobaccoes of what Plantation ſoever, ſix pence in the pound. And to the end every Col<g ref="char:EOLhyphen"/>lector may have a true inſpection into this matter, he is to take notice that he is to paſſe no Tobaccoes to be of the Engliſh Plantations, but onely ſuch, as by ſufficient perſons ſhall be atteſted upon Oath ſo to be.</p>
+               <p>
+                  <note n="(l)" place="margin">Lead Oare.</note> That Lead Oare be rated and valued at vj. l. xiij. s. iij. d. <hi>per</hi>
+                  <pb n="6" facs="tcp:39352:5"/>Tun, each Tun containing twenty hundred weight, after which Rate and value, the duties are to be lebied upon Engliſh-men, &amp; it being an Engliſh Commodity, ſtrangers therefore upon exportation are to pay double Subſidy, &amp; double petty cuſtome, that is to ſay, every Merchant Stranger is to pay the duty for every Tunn of the ſaid Lead after the Subſidy of xiij. l. vj, s. viij. d. Beſides double petty Cuſtome, which is vj. d. upon every xx. s. value according to that rate.</p>
+               <p>
+                  <note n="(m)" place="margin">Bayes.</note> Whereas in many Ports Bayes have been and are entred in the name of Tanton <note n="(n)" place="margin">Cottons.</note> Cottons the difference of the Cuſtomes whereof is very great, the Collectors and Officers in thoſe Ports are to take care, that for ſuch as are Bayes (in whatſoever Name the Merchant may enter them) Cuſtome be demanded and leavied as for Bayes.</p>
+               <p>
+                  <note n="(o)" place="margin">Slat-ſtones.</note> That care be likewiſe taken, That Slate-ſtones which are rated in the book of Rates at 15. s. the Thouſand, paſſe not for Hilling-ſtones which are valued but at iij s. iiij. d. <hi>per</hi> Thouſand.</p>
+               <p>
+                  <note n="(p)" place="margin">Horſes and live Cattell.</note> He is to take cuſtom for all Horſes &amp; live Cattell that ſhall be im<g ref="char:EOLhyphen"/>ported according to the book of Rates, notwithſtanding the exception of freſh fiſh and beſtiall in the Act for Tunnage and Poundage, for that by freſh fiſh is meant only fiſh unſalted, and by beſtiall freſh fleſh for mans meat kild and brought in unſalted.</p>
+               <p>
+                  <note n="(r)" place="margin">
+                     <hi>Fiſh, as Her<g ref="char:EOLhyphen"/>rings, and Pilchards.</hi>
+                  </note> In the ſhipping out of fiſh, as Pilchards and Herrings, theſe Rules are to be obſerved,</p>
+               <p>That all Engliſh-men ſhipping Fiſh Engliſh taken in Engliſh bottomes are to pay neither Subſidy nor Cuſtome. All Engliſhmen ſhipping Pilchards in ſtrangers bottomes are to pay xi. s. the Tunn, and Herrings being ſhipped by Engliſh-men in Strangers bottomes, are to pay according to the book of Rates.</p>
+               <p>All Strangers ſhipping Pichards in Engliſh bottomes, are co pay twenty ſhillings per Tun Sſubſidy and five ſhillngs Petty Cuſtome.</p>
+               <p>All Strangers ſhipping either Pilchards or Herrings in ſtrangers bottomes, are to pay the ſubſidy generall according to the book of Rates, and the ſubſidy ſpeciall called Strangers Subſidy, they veing native Commodities, and alſo the ſingle Petty Cuſtome.</p>
+               <p>In which, as alſo in all other caſes of like import is to be noted <note n="(s)" place="margin">Denizens to pay ſtrangers Cuſtome.</note> That all Strangers made Denizens are to pay all Cuſtomes and Subſidies as ſtrangers.</p>
+               <p>
+                  <note n="(t)" place="margin">What ſhips to be reputed ſtrangers, and what Engliſh.</note> All ſhips wherein the major part of the Seamen are ſtrangers, are to be accounted ſtrangers.</p>
+               <p>That all ſhip belonging to ſtrangers, are to be accounted ſtrangers bottomes, though Engliſh built.</p>
+               <p>That all ſhips of which any ſtranger is part owner are to reckoned ſtrangers bottomes, though all the reſt of the owners are Engliſh.</p>
+               <p>That all ſhips wherein the moiety or Major part of Mariners are ſtrangers, are to be accounted ſtrangers bottomes.</p>
+               <p>
+                  <note n="(n)" place="margin">Bullion and Forraign Coyn.</note> In caſe of Bullion and forreign Coin (for the importation whereof free liberty is granted by Act of Parliament) he is to take notice, that no ſeizure is to be made thereof, ſo as the whole quantity be duely en<g ref="char:EOLhyphen"/>tred and care taken that the quantity entred be imported, which entry
+<pb n="7" facs="tcp:39352:5"/>is to be fairly regiſtred in the Collectors books; and upon ſignifica<g ref="char:EOLhyphen"/>tion given unto him by the Commiſſioners (and not by others) Coin, is delivered into the Mint to be Coined, then, and not before, the Merchant is to be permitted to ſhip out the other two thirds thereof, and no more, he paying one <hi>per Centum,</hi> that is to ſay Twenty ſhillings upon every hundred pounds Sterling thereof, being rated at ſive ſhillings <hi>per</hi> ounce, and ſo after that rate for every greater or letter quantity.</p>
+               <p>Upon all entries made for Bullyon or Forreign Coin, he is to paſs a warrant for landing thereof.</p>
+               <p>
+                  <note n="(w)" place="margin">Prize Goods and Ships.</note> That upon all ſhips brought in as prize whether taken by the States ſhips or other private men of war, after condemuati<g ref="char:EOLhyphen"/>on thereof, full cuſtome is not only to be received for all goods therein, as if they were imported by way of Merchandize, but alſo for the ſhip, Tackle, Ordnance, and other furniture belonging to the ſame, after the rate of five <hi>per Centum,</hi> as the ſame ſhall the invifferently appraiſ<g ref="char:EOLhyphen"/>ed, <note n="(x)" place="margin">Ships bought beyond the Seas.</note> As alſo the like cuſtome is to be received for all other ſhips that are bought beyond the Seas, as the proper goods of any perſon or Merchant reſiding in England.</p>
+               <p>
+                  <note n="(y)" place="margin">Goods not rared in the Book of Races.</note> Where any goods or Merchandizes ſhall be, exported, or impor<g ref="char:EOLhyphen"/>ted and the ſame rated or valued in the book of Kates, there the Collector is to ſet value upon the goods, in which he is to have regard unto the benefit that ſhall accrew unto the Tommon-wealth, by the importation or exportation of any ſuch goods and Merchandizes, and accordingly to ſet the rate and value, but in no caſe to ſet the rate and value of any goods below the intrinſicall value or worth thereof, nor any Foreign Manufacture imported, at leſſe then double the in<g ref="char:EOLhyphen"/>trinſick value thereof whether the ſame be imported by Engliſh or by ſtrangers.</p>
+               <p>
+                  <note n="(z)" place="margin">No allowance upon prize Goods.</note> And as for goods brought in as a prize, no defalcation or allowance from the quantity thereof, or out of the ſumm of money due for cuſtome and ſubſidy, by way of abatement for being bad, damaged, or defective is to be made.</p>
+               <p>
+                  <note n="*" place="margin">Coleſeed and Colleſeed oyl.</note> He is to rate &amp; value all Cole-ſeed oyles, imported as rape-ſeed oyls, and all Cole-ſeed exported as Rape-leed is valued in the book of Rat<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, and to leavy the Cuſtome and other duties accordingly.</p>
+               <p>
+                  <note n="‖" place="margin">Wrappers.</note> That the Allowances to be made and given to Merchauts for wrap<g ref="char:EOLhyphen"/>pers, upon ſhipping out of the old or new Draperies, in places where wrappers are allowed, are not to exceed the directions and Inſtru<g ref="char:EOLhyphen"/>ctions annexed to the book of Kates, <note n="*" place="margin">No allo<g ref="char:EOLhyphen"/>wance of five <hi>per Cent.</hi> out<g ref="char:EOLhyphen"/>wards.</note> and that upon all goods exported there is no allowance of five <hi>per Centum,</hi> which Merchants have upon goods inwards nor any allowance other then as is aforeſaid to be made, or given therein.</p>
+               <p>
+                  <note n="*" place="margin">Goods allow<g ref="char:EOLhyphen"/>ed for ſtore, &amp;c. to be rated.</note> All goods &amp; Merchandizes allowed for ſtore, portage, or proviſion, in<g ref="char:EOLhyphen"/>wards or outwards, ſhall be valued according to the book of Kates, or in caſenot there rated, according to the directions before mentioned for valning goods not mentioned in the book of Kates. Althought the ſame neither doth nor ſhall pay and Cuſtome or ſubſidie, and ſhall be
+<pb n="8" facs="tcp:39352:6"/>entred in books diſtinctly, and apart by themſelves.</p>
+               <p>In the granting and paſſing thereof, the following rules and di<g ref="char:EOLhyphen"/>rections are to be obſerved.</p>
+               <p>
+                  <note n="(x)" place="margin">Store and Portage.</note> That no bill of Store or portage be granted, but that the name of the Ship upon which it is to be ſerved, and the Maſter thereof, and the perſons to whom, be therein mentioned, and none to be granted but to Mariners at their comming in and going out. Except it be for Dammage Goods, Miſ-entries, Over-entries, or by ſpeciall order from the Commisſioners, wherein all care is to be taken of good husbandry, and moderation for the Common wealths intereſt.</p>
+               <p>That no bill of Store except as is before excepted, be granted, but with this following clauſe viz. (to be void except it be ſerved within four daies.)</p>
+               <p>That all bils of Stores, as well as Cocquets and other Warrants, be delivered to the Watter and not to the perſon to whom they are granted.</p>
+               <p>That no bills of Stores be ſerved upon goods of any perſon what<g ref="char:EOLhyphen"/>ſoever, other then the perſon to whom they are granted, or out of or upon the ſame Ships mentioned in the ſaid bill, without the ſpeciall directions of the Commisſioners, except ſuch bills of Stores as are granted for Damage Goods, Miſ-entries, or Over-entries, or by ſpeciall order as aforeſaid.</p>
+               <p>
+                  <note n="*" place="margin">Goods to be cleared ac<g ref="char:EOLhyphen"/>cording to the Standard.</note> That no Merchant or other perſon cleare his goods in the Cu<g ref="char:EOLhyphen"/>ſtome houſe otherwiſe then according to the ſtandard of England, as well that for meaſure mentioned in the Saints of <hi>II<hi rend="sup">o</hi>. Hen 7. Cap. 4<hi rend="sup">o</hi>.</hi> as that for weights mentioned in ſeverall other Statates. And that the intentions of the Commisſioners may be known herein, the Collectors and other officers are enjoyned to peruſe the Statute of <hi>12<hi rend="sup">o</hi>. Hen. 7<hi rend="sup">o</hi>. Cap. 5<hi rend="sup">o</hi>.</hi> and that they clears no goods otherwiſe then according to the Buſhell, in that Statute mentioned, which containes eight Gallons; and to all goods which by the book of Rates are to pay cuſtome, <note place="margin">Weights.</note> that there be allowed and accounted to the hundred ſuttle but <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ve ſcore, and to the hundred wight Groſſe, five ſcore and twelve pounds: and for other goods by the Tunn of weight, but twenty hundred weight of one hundred and twelve pounds to each hundred, <note place="margin">Meaſures.</note> to the Tunn of meaſure but two hundred fifty two gallons. and to the meaſure of ells and yards but according to the Engliſh Standart for an ell and a yard: Only here is to be noted, that all Butts and Pipes, albeit by exact meaſure two of them may not con<g ref="char:EOLhyphen"/>taine a full Tunn, yet are to pay Cuſtoms for a Tunn notwith<g ref="char:EOLhyphen"/>ſtanding and fours Hogs heads and three Puncheons of all other Commodities are to paſſe and pay for a Tunn, although the gage be not ſo much; but all goods comming in uncertains and nauſuall Caſk, which are to pay by the Tunn, Hogs-head, Pipe or Barrell, are to be reduced unto the foreſaid Number of gallons to make a tunn and not otherwiſe, is uſe to be made for gageing or computing, as to ſuch Commodities, and where the book of Rates doth direct that any commoditie is to pay by the ſ<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>miſh or other out landiſh meaſure, there only is the Cuſtome to be collected accordingly, but upon all other
+<pb n="9" facs="tcp:39352:6"/>Commodities the Cuſtoms are to be collected, according to the afore<g ref="char:EOLhyphen"/>ſaid reſpective Standards of Weights and meaſures, and in caſe any Goods or Merchandizes ſhall be landed or ſhipped out, the Cuſtoms and other duties not being payd or compounded for, according to the aforegoing Rules, due ſeiſure is to be made of all, or the overplus, and proceedings to be had thereupon, and as by the Inſtructions con<g ref="char:EOLhyphen"/>cerning ſeiſures is hereafter particularly amongſt other things ſet down.</p>
+               <p>
+                  <note n="(a)" place="margin">Goods to be entred in their own de<g ref="char:EOLhyphen"/>nominations.</note> Eſpecial care is to be taken, that all Commodities be entred in their own denominations, according to their true nature and qua<g ref="char:EOLhyphen"/>lity.</p>
+               <p>To the end the Collectors and all other Officers and perſons, may know how to regulate themſelves, they are to take care, that the fol<g ref="char:EOLhyphen"/>lowing Order of the Commiſſioners, made in purſuance of an Order of the Committee for preſervation of the Cuſtoms, be punctually ob<g ref="char:EOLhyphen"/>ſerved, <hi>viz.</hi>
+               </p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="order">
+                           <p>
+                              <note n="(b)" place="margin">Goods to be entred in the Owners names.</note> All perſons are enjoyned by Law, that they do enter all Goods to be exported, imported or traſported, in the name or names of the proper Owner or Owners thereof, &amp; not in the name or names of any other perſon or perſons whatſoever, upon pain of the forfeiture of all ſuch Goods and Merchandize as ſhall be entered contrary unto the Law in that behalf. And we do hereby charge and require all Officers of the Cuſtoms, to make diligent ſearch and enquiry, as to the obſer<g ref="char:EOLhyphen"/>vance hereof, and in caſe they ſhall finde any to tranſgreſſe, by enter<g ref="char:EOLhyphen"/>ing Goods and Merchandizes, contrary unto the Law, as is afore<g ref="char:EOLhyphen"/>ſaid, that they do make ſeiſure thereof, and ſigniſte the ſame unto us.</p>
+                           <closer>
+                              <dateline>Given under our Hands and Seale of Office, at the Cuſtom-houſe <hi>London,</hi> 
+                                 <date>this third of <hi>Auguſt, 1654.</hi>
+                                 </date>
+                              </dateline>
+                              <signed>
+                                 <list>
+                                    <item>
+                                       <hi>Robert Titchburn.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Edmo:Harvey.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Mar: Hildeſley.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Daniel Taylor.</hi>
+                                    </item>
+                                 </list>
+                              </signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>
+                  <note n="(c)" place="margin">Ships un<g ref="char:EOLhyphen"/>lading part &amp; exporting the reſt.</note> In caſe any Ship importing forraign Goods into any Ports, ſhall diſcharge part of her Lading there, and intend to tranſport the reſt over Sea, entry is to be made of the whole, and Cuſtom payd ac<g ref="char:EOLhyphen"/>cordingly.</p>
+               <p>
+                  <note n="(d)" place="margin">Allowance of 12. <hi>per cent</hi> for leakage.</note> That allowance of twelve <hi>percent.</hi> is to be made for leakage of Wines, (excepting Wines brought in as Prize, to which neither this, nor any other allowance is to be made) to Merchants demanding the ſame, by way of defalcation, where no Wines are filled up on ſhipboard, and care to be taken for preventing thereof. Which twelve <hi>per Cent.</hi> is not to be taken or deducted out of the quantities of Wines, but out of the monies received for the ſuvſtdy.</p>
+               <p>
+                  <note n="(e)" place="margin">The Col<g ref="char:EOLhyphen"/>lector to re<g ref="char:EOLhyphen"/>ceive the States part up<g ref="char:EOLhyphen"/>on ſeizures.</note> He is to receive the moyeties of all ſeiſures demiſes, and Com<g ref="char:EOLhyphen"/>poſſtions for Cuſtom Cauſes, and to keep the money ſo received, in one account particularly by it ſelfe, and upon receipt thereof, he is to remit the ſame to the Caſhire Generall, with a note expreſſing from
+<pb n="10" facs="tcp:39352:7"/>whom, and for what Goods ſeized, compounded for, or recovered, ſuch money was payd.</p>
+               <p>
+                  <note n="(f)" place="margin">Allowance of halfe ſubſidy.</note> Before allowance be made of the half ſubſidy for Goods export<g ref="char:EOLhyphen"/>ed, formerly imported, or any free Cocquet granted for the ſame, theſe following Rules and directions are to be obſerved.</p>
+               <p>The Collector is to be aſſured, that the Goods upon which the half ſubſidy is to be payd back, it exported by, or for a ſtrangers ac<g ref="char:EOLhyphen"/>count, were imported within nine moneths; and if by, or for an <hi>Eng<g ref="char:EOLhyphen"/>liſh mans</hi> account, within twelve moneths; Then he is to make a Cer<g ref="char:EOLhyphen"/>tificate under his own hand, that ſuch Goods were entred and payd Cuſtom, and all other duties upon the importation thereof.</p>
+               <p>In which Certificate he is to expreſs the time when the ſame were imported, by whom. the quantity and quality of the ſaid Goods, in words at length, and not in figures.</p>
+               <p>The computation of the nine moneths, and twelve moneths above ſaid, is to be made from the day of the entry of the Goods inwards, whether by ſight or perfect warrant, to the day of the ſhipping of tehm aboard outward, and not to the date of the Collectors Certifi<g ref="char:EOLhyphen"/>cate.</p>
+               <p>Upon the ſaid Certificate, the Merchant or ſome for him that can depoſe the ſame, muſt make oath that the Goods which now be inten<g ref="char:EOLhyphen"/>deth to export, are the ſame which are mentioned in that Certificate, and for which the full ſubſidie and other duties due upon the importa<g ref="char:EOLhyphen"/>tion were payd; and if the ſaid Goods have been contracted for, or ſold, he is to make oath to whom the ſame have been contracted and to whom ſold; as alſo for whoſe accompt the ſame ſhall be export<g ref="char:EOLhyphen"/>ed. But if it appear unto him, upon ſuch examination and enquiry, as be ſhall think fit to make upon oath in the matter, that the quality &amp; property of the Goods have been altered from the firſt importer be<g ref="char:EOLhyphen"/>pond the ſecond buyer, there is no half ſubſidy to be payd back, but in all ſuch caſes the Merchant is to pay his Cuſtom, unles in caſe of Goods to be exported by the Importer thereof, as is directed by the ſeventh Ar<g ref="char:EOLhyphen"/>ticle of Inſtructions, annexed to the <hi>Book of Rates,</hi> upon oath made as aforeſaid, in purſnance of the ſecond Article of Inſtructions, annexed to the ſaid Book. And whereas the half ſubſidy is to be payd back, he is to make out unto the Merchante a Certificate, Cocquet and a De<g ref="char:EOLhyphen"/>bentur, the form of which are as followeth.</p>
+               <p>
+                  <note n="(g)" place="margin">The form of the Certifi<g ref="char:EOLhyphen"/>cate and Oath thereupon.</note> In the <hi>May den-Head</hi> of <hi>Pl<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mouth, James Lotton</hi> Maſter for <hi>Mallago. John Green Ind:</hi>
+               </p>
+               <p>
+                  <hi>Five bales containing twenty hundred ells net Linnen. The ſubſidy inwards for twenty hundred ells net Linnen, was payd by John Green Ind: the ſixth of Jan, laſt paſt, written 5 Martij 1651. A. B. Collector. C. D. Checque.</hi>
+               </p>
+               <p>
+                  <hi>Juravit John Green, or A. B his Servant, the Goods a<g ref="char:EOLhyphen"/>bove mentioned in this Certificate to be ſhipped out, are the ſame which payd Cuſtom, inwards, and are to be tranſported and ſold beyond the Seas, for the pro<g ref="char:EOLhyphen"/>per account of the ſaid John Green, without any pre<g ref="char:EOLhyphen"/>Contract for the ſame.</hi>
+               </p>
+               <pb n="11" facs="tcp:39352:7"/>
+               <p>
+                  <note n="h" place="margin">Form of the Cocquet.</note> Know ye, that <hi>John Green Ind.</hi> for five bales containing two hun<g ref="char:EOLhyphen"/>dred ells of Linnen Cloth net, late in this Port unladen, and now to be ſhipped in the <hi>Maiden-Head</hi> of <hi>Plimouth,</hi> Maſterr <hi>James Lutton</hi> for <hi>Mallago,</hi> payd all duties at the firſt diſcharge, the ſirth day of <hi>Janu<g ref="char:EOLhyphen"/>ary</hi> laſt paſt.</p>
+               <p>
+                  <hi>Dated 5<hi rend="sup">o</hi> Martil 1651.</hi>
+               </p>
+               <p>
+                  <note n="(i)" place="margin">Form of the Debentur.</note> 
+                  <hi>Plimouth, John Green Ind.</hi> did enter with us the 5<hi rend="sup">o</hi> day of <hi>March, 1651.</hi> in the <hi>Maiden-Head</hi> of <hi>Plimouth,</hi> Mr. <hi>James Lutton</hi> for <hi>Mallago.</hi> five bales containing two hundred ells of Linnen Cloth net, the ſubſidy whereof was payd inwards, by the ſaid <hi>John Green Ind.</hi> the ſixth day of <hi>Ian.</hi> laſt paſt, as it doth appear by the Certificate of the Collector inwards, and for further manifeſtation of his juſt dealing herein, he hath alſo taken oath before us for the ſame.</p>
+               <p>
+                  <hi>Cuſtom-Houſe Plimouth, Die &amp; anno ſupradict.</hi>
+               </p>
+               <p>Upon which <hi>Debentur</hi> is to be firſt certiſted, by the ſearcher that ſhipped off the ſaid Goods, the time when they were ſhipped; and the name of the Ship in which they were ſhipped; and after the Ship is departed the Coaſt of <hi>England</hi> or the Goods arrived in ſome Port be<g ref="char:EOLhyphen"/>yond the Seas, the Merchant himſelf, and no other perſon upon the <hi>Debentur,</hi> making oath that the Goods expreſſed in that <hi>Debentur</hi> and Certificate aforeſaid, being thereunto annexed, are really ſhipped out, for quality and quantity, and are not, nor any part thereof ſince they were laſt ſhipped out, relanded in any Port or Croek of <hi>England, Wales,</hi> or <hi>Scotland,</hi> that then within one moneth after ſuch oath made, the Collector is to pay back the half ſubſidy only, and not part of any other duty whatſoever. and upon the ſaid <hi>Debentur,</hi> to take the Re<g ref="char:EOLhyphen"/>ceipt of the Merchant, himſelf, or of his known Factor or Agent for the ſum aforeſaid.</p>
+               <p>Note, that the ſearcher have it in charge, to examine and take care, that the ſame Goods for quantity and quality, be ſhipped out, as is mentioned in the Cocquet.</p>
+               <p>And whereas by the ſeventh Article of Inſtructions annexed to the <hi>Book of Rates,</hi> it is directed, that if any Merchant having duly payd all duties inwards, and in regard of bad ſales, ſhall be enforced to keep the ſaid Goods, or any part thereof in his hands, without alteration of property after the ſpace of a year ſhall be clapſed, in which caſe be is to be permitted to ſhip the ſame out for the parts beyond the Seas, (if he ſo think fit) without payment of any ſubſidie for the ſame out<g ref="char:EOLhyphen"/>wards, upon due proof that the ſame was duly entered, &amp; ſubſidy payd inwards. But before the Merchant have any froe Cocquet, to that purpoſe, a Certificate is to be made out, and ſubſcribed by the Col<g ref="char:EOLhyphen"/>lector, of the time when ſuch Goods were imported, as alſo that the Cuſtoms thereof were by him received, and that in the ſaid Certifi<g ref="char:EOLhyphen"/>cate be expreſſed the quantity and quality of Goods imported, and de<g ref="char:EOLhyphen"/>ſired to be exported; as alſo upon the ſame the Dath or the party that payd the Cuſtom is to be made that it was payd, and the oath of the Bropriefor, and no other perſon, that the ſaid Goods are not ſold or contracted for, nor altered in the quality, ſince they were firſt import<g ref="char:EOLhyphen"/>ed
+<pb n="12" facs="tcp:39352:8"/>but that they ſhall be exported upon his own proper account, the form of which Certificate and Oath thereupon hereafter follow<g ref="char:EOLhyphen"/>eth, <hi>viz.</hi>
+               </p>
+               <p>
+                  <note n="(k)" place="margin">Form of the Certificate and Oath.</note> In the <hi>Mary</hi> of <hi>Poole; William Hammond</hi> Maſter for <hi>Rotter<g ref="char:EOLhyphen"/>dam</hi>
+               </p>
+               <p>
+                  <hi>Iohn Green Ind.</hi>
+               </p>
+               <p>
+                  <hi>Two bales containing ten hundred ells of vittery Canvas. The ſubſidy in wards for ten hundred ells vittery Canvas was payd by Iohn Green Ind. 6<hi rend="sup">o</hi> Ian. 1649. written Martij. 5<hi rend="sup">o</hi>. 1651.</hi>
+               </p>
+               <p>
+                  <hi>Iuravit Iohn Green, the Goods above mentioned, have payd full Cuſtom in ward, and are to be tranſported on his own account, without alteration of property, or contract made for the ſame.</hi>
+               </p>
+               <p>All which being reſpectively done, and obſerved as aforeſaid, and executed accordingly, upon importation of all Goods and Merchandts res, he is in the former caſe, <hi>viz.</hi> of the half ſubſidy to pay it back: and the like being obſerved as aforeeſaid, in reference to Goods and Mer<g ref="char:EOLhyphen"/>chandizes to be exported after the ſame have been imported above nine moneths by ſtrangers, and twelve moneths by <hi>Engliſh,</hi> to grant a free Cocquet, where it is deſired, the form whereof hereafter follow<g ref="char:EOLhyphen"/>eth.</p>
+               <p>
+                  <note n="(l)" place="margin">Form of the free Cocquet.</note> Know ye that <hi>Iohn Green Ind.</hi> for two bales containing two hundrid ells of vittery Canvas neſſ, payd all dutiee inwards, the <hi>6<hi rend="sup">o</hi>. Iran. 1649.</hi> and now to be ſhipped in the <hi>Mary</hi> of <hi>London, Will: Hammond</hi> Maſter for <hi>Rotterdam</hi> Dated <hi>5<hi rend="sup">o</hi> Martij. 1651.</hi>
+               </p>
+               <p>
+                  <note n="(m)" place="margin">What meant by al<g ref="char:EOLhyphen"/>teration of quality and property.</note> 
+                  <hi>Mem.</hi> By alteration of quality is to be underſtood, that if Flax or Hemp be imported, and after wards exported, the firſt be made into Cloth, or the ſecond into yarn or Kopes; or that linnen Cloth being firſt imported, and afterwards being cut out into ſhirts or ſheets, or any other neceſſaries; or if Goods or Merchandizes ſhall after their importation be died, dreſſed, or further manufactured, theſe and the like are alteration of quality, and the ſelling and contracting for any Goods or Merchandize, is an alteration of property.</p>
+               <p>
+                  <note n="(n)" place="margin">No halfe ſubſidy upon Wines, &amp;c.</note> He is like wiſe to take notice, That he is not to allow the half ſubſidy upon the importation of any Wines, Tobaccoes, or forraign VVoolls.</p>
+               <p>
+                  <note n="(o)" place="margin">Goods pe<g ref="char:EOLhyphen"/>riſhed or loſt at Sea.</note> He is not to make any allowance for Goods periſhed, or loſt at Sea, or for Goods or Merchandizes entred outwards, or diſcharged in ſome Port of this Nation, under the pretence of contrary Winds or leakage of the Weſſell, without order of the Commiſſioners.</p>
+               <p>
+                  <note n="(p)" place="margin">All entries to be daily regiſtred.</note> He is not to omit any entries, but duly and daily to regiſter the ſame in the Record of the Port, &amp; if any <note n="(q)" place="margin">Defalca<g ref="char:EOLhyphen"/>tions.</note> defalcation be (although by Order,) that the ſame be ſignified neere the ſaid entry, with the rea<g ref="char:EOLhyphen"/>ſon why the ſame is not drawn up in the ſum thereof, and added up with the account of monies received.</p>
+               <pb n="13" facs="tcp:39352:8"/>
+               <p>
+                  <note n="(r)" place="margin">Poſt-en<g ref="char:EOLhyphen"/>tries.</note> He is to regulate himſelf and the reſt of the Officers in point of poſt-entries by the following Order, <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>6<hi rend="sup">o</hi> Martii. 1649.</hi>
+               </p>
+               <p>
+                  <hi>Committee Navie.</hi>
+               </p>
+            </div>
+            <div type="petition">
+               <head>The Petition of the Governours and Company of Merchants, trading into the Levant ſeas be<g ref="char:EOLhyphen"/>ing read.</head>
+               <p>IT is thereupon <note n="(f)" place="margin">Orders touching poſt<g ref="char:EOLhyphen"/>entries.</note> ordered by this Committee, that in caſes of ſhort Entries of any foreign Goods inwards, wherein upon examina<g ref="char:EOLhyphen"/>tion to be taken before the Commiſſioners or Collectors for the Cuſtoms, it ſhall appear that the Merchant had no intention of Irand to the Commonwealth, and the goods unentred ſhall not exceed twen<g ref="char:EOLhyphen"/>ty <hi>per cent.</hi> in the quantity thereof, in proportion with the goods men<g ref="char:EOLhyphen"/>tioned in the VVarrant (whereof the five <hi>per cent.</hi> allowed by the Parliament ſhall be accompted part) that the Merchant ſhall be admitted to amend his entry without ſeizure; but this Committee do expreſly declare, that they do not intend this Order ſhall be ex<g ref="char:EOLhyphen"/>tended</p>
+               <list>
+                  <item>1 To any entries of goods paſſing Outwards in any caſe what<g ref="char:EOLhyphen"/>ſoever.</item>
+                  <item>2 Nor to any goods entred inwards which ſhall be landed at un<g ref="char:EOLhyphen"/>lawfull time or place, or without the preſence of the Officer of the Cuſtoms properly concerned therein.</item>
+                  <item>3 Nor in any cates where upon examination, intention of fraud to the Commonwealth ſhall be diſcovered, or the goods landed and not entered ſhall exceed the quantity above written.</item>
+               </list>
+               <p>But in all ſuch caſes, this Committee do require and expect, that ſeiſures be duly made, and proſecuted, according to the duties of the Commiſſioners, and their officers, and the Laws in that behalf eſtabliſhed.</p>
+               <list>
+                  <item>
+                     <hi>Ro. Brewſter.</hi>
+                  </item>
+                  <item>
+                     <hi>George Thomſon.</hi>
+                  </item>
+                  <item>
+                     <hi>Ben. Valentine.</hi>
+                  </item>
+                  <item>
+                     <hi>Ri. Aldworth.</hi>
+                  </item>
+                  <item>
+                     <hi>T. Harriſon.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="orders">
+               <pb n="14" facs="tcp:39352:9"/>
+               <head>In the Caſe of Exportation of Calveskins, the following Orders are to be obſerved, Monday the ſecond of <hi>October,</hi> 1654. At the Committee for preſervation of Cuſtoms.</head>
+               <p>
+                  <note n="(t)" place="margin">Calve<g ref="char:EOLhyphen"/>skins export<g ref="char:EOLhyphen"/>ed.</note> WHereas the Còmiſſioners of the Cuſtoms have preſented un<g ref="char:EOLhyphen"/>to this Committée the great difference between them &amp; the Merchants and traders in the ſeverall Ports of this Nation, ariſing from want of power to take their bonds for three ſhillings and four pence of the duties payable upon the Exportation of every dozen of Calveskins, as heretofore they could have done; and their enforcing the ſaid Merchants and others, to pay the whole duty of ſeven and four pence, which is by them thought to be a greater duty then the na<g ref="char:EOLhyphen"/>ture of the commodity will bear; and that hereby the ſaid Commiſ<g ref="char:EOLhyphen"/>ſioners conceive the Commonwealths Revenue hath in ſome mea<g ref="char:EOLhyphen"/>ſure been leſſened, the chief Merchants and traders therein having diſcontinued the Exportation thereof; and although others of leſſe value have undertaken the ſame, yet have they endeavoured in a ſculking underhand way to export the ſame in Creeks and upon Beaches, and unuſuall places, on purpoſe to defrand the Common<g ref="char:EOLhyphen"/>wealth of the whole duty thereof, notwithſtanding all due care hath been taken to prevent the ſame; all which this Committee having ta<g ref="char:EOLhyphen"/>ken into conſideration, do think fit, &amp; order, That the Commiſſioners for the Cuſtoms do henceforth permit and ſuffer Calveskins (not exceeding the weight limited in the book of Rates) to be exported be<g ref="char:EOLhyphen"/>yond the ſeas, receiving onely ſubſidy from the Engliſh men four ſhillings <hi>per</hi> dozen, until this Committee ſhall give further order, who intend as ſoon as opportunity ſhall ſerve, to report the ſame unto the Parliament; And that in the mean time the ſaid Commiſſioners for the Cuſtoms do take care that good bonds be given by the Mer<g ref="char:EOLhyphen"/>chants and others, Exporters of ſuch Calveskins, for payment of three ſhillings four pence upon every dozen of ſuch skins as ſhall be exported, in caſe the Parliament ſhall think fit to continue the ſaid duty.</p>
+               <list>
+                  <item>
+                     <hi>William Roberts.</hi>
+                  </item>
+                  <item>
+                     <hi>John Stone.</hi>
+                  </item>
+                  <item>
+                     <hi>George Bennerts.</hi>
+                  </item>
+                  <item>
+                     <hi>John Bocket.</hi>
+                  </item>
+                  <item>
+                     <hi>A. Baines.</hi>
+                  </item>
+               </list>
+               <p>
+                  <note n="(u)" place="margin">Horſes to the Engliſh Plantations.</note> He is to permit Horſes to be exported upon Licence from his Highneſſe or Council to any of the Engliſh Plantations in <hi>America,</hi> upon payment of twenty ſhillings cuſtom for each horſe, according to an Ordinance of his Highneſſe and Council, dated the <hi>30th</hi> of <hi>Ja<g ref="char:EOLhyphen"/>nuary, 1653.</hi>
+               </p>
+            </div>
+            <div type="directions">
+               <pb n="15" facs="tcp:39352:9"/>
+               <head>Directions concerning the Levying the new Impoſt on Coals.</head>
+               <p>IN regard of many abuſes in the meaſure and lading of ſhips with Coals at <hi>Newcaſtle</hi> and <hi>Sunderland,</hi>
+                  <note place="margin">Impoſt on Coals.</note> in both which Ports the mea<g ref="char:EOLhyphen"/>ſures are not onely altered from the firſt oſtabliſhment, but do alſo much differ the one from the other, which ought to be of the ſame gage. And that alſo the ſhips, though ſome more, and ſome leſſe, yet all do erceed and make ont more then the quantities which they do enter, for which they take out Cocquets in relation to thoſe meaſures now in uſe in the foreſaid Ports; and although the altera<g ref="char:EOLhyphen"/>tions of the ſeaſons of the yeer, and the wetneſſe and drineſſe of the coals cauſe ſome ſmall difference in the meaſurs, yet it isevident, that theſe differences and uncertainties are made uſe of to the advantage of the traders in coals, and loſſe to the Commonwelth in the Impoſt pf twp ſhillings <hi>per</hi> chalder lately impoſed, and in the cuſtom of coals tranſported; for prevention of which abuſes, and that the aforeſaid Impoſt and Subſidy may be duly levied by the Collectors, theſe fol<g ref="char:EOLhyphen"/>lowing rules are to be obſerved.</p>
+               <p>That thirty ſir buſhels <hi>Wincheſter</hi> meaſure are allowed to a chalder.</p>
+               <p>A buſhell containeth eight gallons and one quart filled with water, and muſt be nineteen inches and a half broad at the top from the out<g ref="char:EOLhyphen"/>ſides thereof.</p>
+               <p>According to this buſhell the meaſure uſed in that Port muſt be tuſtly computed, and the Impoſt received upon the Certifficate of the chief Maniſtrate, and the report of the ſworn Meater (if there be any) according to the directions of the Act, or by ſuch other Inſpecti<g ref="char:EOLhyphen"/>on and ſurvey of the diſcharge of the coals, as may perfectly ſatisfie the Collector in the delivery of each ſhips lading.</p>
+               <p>
+                  <note n="(x)" place="margin">Coal<g ref="char:EOLhyphen"/>ſhips entring for the Coaſt, and after ar<g ref="char:EOLhyphen"/>rived in ſome. Port going o<g ref="char:EOLhyphen"/>ver ſeas.</note> That if any Colliers from <hi>Newcaſtle, Sunderland,</hi> or any other place of this Nation, do deſire after arrived in Port to pay their cu<g ref="char:EOLhyphen"/>ſtoms for their coals, and to go over ſeas, he is to take their entries upon ſight of their Cocquets, and to receive cuſtom due for the ſame, as the ſame are rated in the book of Rates <hi>London</hi> meaſure, <hi>viz.</hi> after the rate of eight pounds thirteen ſhillings and four pence the chalder; and that according to the ſaid rate he reckon, and cauſe them to pay Cuſtom for every chalder of <hi>Newcaſtle</hi> meaſure two of <hi>London,</hi> and and he that will not pay after this rate, and the two ſhillings <hi>per</hi> chalder Impoſt over and above, according to the ſaid <hi>London</hi> mea<g ref="char:EOLhyphen"/>ſure, let him not go over, but deliver his coals in the Port before de<g ref="char:EOLhyphen"/>parture; and in caſe of refuſall or reſiſtance, that the Collector call to his aid the civil or military Power, and certifie his proceedings, and their miſcarriage from time to time unto the Commiſſioners.</p>
+               <p>That if any ſhips ſhall be forced over ſeas with their lading, being
+<pb n="16" facs="tcp:39352:10"/>firſt bound for the Coaſt, and offer to make entry and to pay the Cuſtoms for the goods according to his Cocquet, that he in no caſe to meddle therewith, but certifie the ſame unto the Commiſſioners, and having firſt obtained order from the Commiſſioners for the re<g ref="char:EOLhyphen"/>ceiving chalder of <hi>Newcaſtle</hi> meaſure two of <hi>London,</hi> beſides two ſhillings Impoſt, &amp; for every chalder of <hi>Sunderland</hi> meaſure three of <hi>London,</hi> beſides the two ſhillings Impoſt which he is to receive accordingly.</p>
+               <p>
+                  <note n="(y)" place="margin">The col<g ref="char:EOLhyphen"/>lectors of the Creeks to give bond to the Collector of the head Port about the Im<g ref="char:EOLhyphen"/>poſt on coals.</note> The Commiſſioners do think ſit further to order and direct, that in all creeks belonging to any Port where any coals are import<g ref="char:EOLhyphen"/>ed, and the Impoſition thereupon due and payable, the Collector of ſuch Port is to come to the Collector or chief Officer of the reſpective créeks (who is to receive the ſaid duty) to enter into bond with ſuf<g ref="char:EOLhyphen"/>ficient ſureties to his Highneſſe, in ſuch penalty as he ſhall think fit, reaſonable &amp; anſwerable to the moneys that ſhall come to their hands, with conditions to pay unto him, or ſuch as the Commiſſioners ſhall appoint, at the end of every four dayes, all ſuch moneys as ſhall come to their hands from time to time for the Impoſition of ſuch coals, which be is to receive from them accordingly.</p>
+            </div>
+            <div type="rules">
+               <head>Rules and Inſtructions publiſhed by the <hi>Commiſſioners</hi> of the Cuſtoms, to be obſerved by all their Officers in the aſcertaining of the quantities of goods and mer<g ref="char:EOLhyphen"/>chandizes hereafter expreſſed, and not to be deviated from in any caſe whatſoever, without the ſpeciall ad<g ref="char:EOLhyphen"/>vice and conſent of the <hi>Collector</hi> and <hi>Surveyor,</hi> and in the abſence of the <hi>Collector,</hi> of the <hi>Surveyor</hi> alone; and where there is no <hi>Surveyor,</hi> of the <hi>Collector himſelf.</hi>
+               </head>
+               <list>
+                  <head>A</head>
+                  <item>
+                     <hi>ALlum</hi> in cask, to be allowed for Tare twelve pound weight <hi>per cent.</hi>
+                  </item>
+                  <item>
+                     <hi>Almods</hi> in cask, to be allowed for Tare fourtéen pound weight <hi>per cent.</hi>
+                  </item>
+                  <item>
+                     <hi>Anniſeeds</hi> in ſearns and bags, containing above thrée hundred and thrée quarters, for tare eightéen pound weight onely.</item>
+                  <item>
+                     <hi>Anniſeeds</hi> from <hi>Smyrna,</hi> with felts, containing about thrée hundred and half, for tare twenty pound weight onely.</item>
+                  <item>Without felts, for tare fourtéen pound weight onely.</item>
+                  <item>
+                     <hi>Argall</hi> in cask to be allowed for tare twelve pound weight <hi>per cent.</hi>
+                  </item>
+                  <item>
+                     <hi>Almods</hi> in bags, to be allowed for tare four pound weight <hi>per</hi> vag.</item>
+                  <item>In ſearns and bags, containing two hundred weight, for tare eighteen pound weight onely.</item>
+                  <item>
+                     <hi>Aſhes vocat. Pot-aſhes,</hi> to be allowed for tare ten pound weight <hi>per cent.</hi>
+                  </item>
+               </list>
+               <list>
+                  <pb n="17" facs="tcp:39352:10"/>
+                  <head>B</head>
+                  <item>
+                     <hi>BAcks</hi> for chimneys of half a hundred weight and downwards to be accompted ſmall, and upwards above that weight to be accompt<g ref="char:EOLhyphen"/>ed great.</item>
+                  <item>
+                     <hi>Berrillia</hi> in double ſearns, containing about thrée boundred weight, for tare twenty eight pound weight onely.</item>
+                  <item>In ſingle ſearns, for tare fourtéen pound weight onely.</item>
+                  <item>
+                     <hi>Beaver-wooll</hi> in Hogſheads or brisles, for tare ſeventy five pound weight only.</item>
+                  <item>
+                     <hi>Beaver-wooll</hi> in crobyes, let them be tared, und allowance for Tare be made accordingly.</item>
+                  <item>
+                     <hi>Benjamin</hi> to be tared, and allowance for tare to be made accordingly.</item>
+                  <item>
+                     <hi>Books</hi> in vaiſts, each bail containing one hundred weight, eight of them makes a maund.</item>
+               </list>
+               <list>
+                  <head>C</head>
+                  <item>
+                     <hi>CApers,</hi> one third part to be allowed for tare, but then no allowance of five pound weight <hi>per cent.</hi> it being included in the one third part for tare.</item>
+                  <item>
+                     <hi>Caſteil-Soap</hi> in double ſearns, for tare twenty eight pound weight onely.</item>
+                  <item>In ſingle ſearns, for tare fourtéen pound weight onely.</item>
+                  <item>In cheſts, containing about two hundred and anhalf, twenty eight pound weight onely.</item>
+                  <item>
+                     <hi>Cardamuans,</hi> the bail, for tare fourtéen pound weight onely.</item>
+                  <item>
+                     <hi>Cochaneil,</hi> in cheſts covered with skins, containing about one hun<g ref="char:EOLhyphen"/>dred and half. for tare fourty two pound weight only, &amp; downwards proportionably.</item>
+                  <item>
+                     <hi>Cochaneil,</hi> in barrels, about one hundred and half, barrell and bag, tare twenty four pound weight onely.</item>
+                  <item>
+                     <hi>Cloves</hi> and <hi>Mace,</hi> tare them, and allow for tare accordingly.</item>
+                  <item>
+                     <hi>Copper fats,</hi> for tare eight pound weight <hi>per cent.</hi>
+                  </item>
+                  <item>
+                     <hi>Coperis,</hi> in cask, for tare twelve pound weight <hi>per cent.</hi>
+                  </item>
+                  <item>
+                     <hi>Cotton-wool</hi> and <hi>Coats-wooll</hi> and <hi>Hops,</hi> for tare four pound weight <hi>per cent.</hi>
+                  </item>
+                  <item>
+                     <hi>Cotton-yarn,</hi> for tare five pound weight <hi>per cent.</hi>
+                  </item>
+                  <item>
+                     <hi>Cotton-yarn,</hi> from <hi>India per</hi> bail, containing about thrée hundred weight, for Tare thirty five pound weight only.</item>
+                  <item>
+                     <hi>Currants,</hi> in buts, Carratéels, and quarter Rowls, for tare ſixteen pound weight <hi>per cent.</hi>
+                  </item>
+                  <item>In bags, containing about four hundred pound weght, for tare ten pound weight <hi>per</hi> bag.</item>
+               </list>
+               <list>
+                  <head>F</head>
+                  <item>
+                     <hi>FLax.</hi> the laſt to be accompted to contain ſeventéen hundred weight.</item>
+                  <item>
+                     <hi>Feathers,</hi> for tare to be allowed four pound weight <hi>per cent.</hi>
+                  </item>
+                  <item>
+                     <hi>Figs,</hi> in barrells, for tare twelve pound weight <hi>per cent.</hi>
+                  </item>
+                  <item>
+                     <hi>Fruit,</hi> in baskets, for tare two pound weight <hi>pes</hi> basket.</item>
+               </list>
+               <list>
+                  <pb n="18" facs="tcp:39352:11"/>
+                  <head>G</head>
+                  <item>
+                     <hi>GAuls,</hi> from <hi>Aleppo</hi> and <hi>Smyrna,</hi> in double bags, for tare ſeven pound weight onely.</item>
+                  <item>In ſingle bags, for tare four pound weight onely.</item>
+                  <item>
+                     <hi>Gum-lack, Seed-lack,</hi> and <hi>Shel-lack,</hi> in bales, for tare fourtéen pound weight <hi>per</hi> bale.</item>
+                  <item>In cheſts, tare them, and make allowance of tare accordingly.</item>
+               </list>
+               <list>
+                  <head>H</head>
+                  <item>
+                     <hi>HArnis, plates</hi> or <hi>breſts,</hi> each to be accompted for an fron double.</item>
+                  <item>
+                     <hi>Hemp, vocat. Steel-hemp,</hi> in ſats, for tare twelbe pound weight <hi>per cent.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>I</head>
+                  <item>
+                     <hi>INdico,</hi> in cheſts covoted with skins, containing about on hundred and three quarters weight, to be allowed for tare fourty two pound weight onely.</item>
+                  <item>
+                     <hi>Indico,</hi> in bales, covered with skins, containing about one hundred and a half, tare fourteen pound weight onely.</item>
+                  <item>
+                     <hi>Indico,</hi> in Churles, tare the Churles, and make allowance of tare accordingly.</item>
+                  <item>
+                     <hi>Iron Wire Fats,</hi> for tare ſix pound weight <hi>per cent.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>K</head>
+                  <item>
+                     <hi>KEttle Fats,</hi> for tare, eight pound weight <hi>per cent.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>L</head>
+                  <item>
+                     <hi>LOckeram,</hi> the plece, containing but one hundred and four Ells, and ſhould contain, as <hi>per</hi> look of Rates, one hundred and ſix Ells; therefore allowance to be made, beſſdes the five <hi>per cent.</hi> of two ells <hi>per cent.</hi> for loſſe of meaſure.</item>
+                  <item>
+                     <hi>Linnen,</hi> of all ſorts, take the contents, and allow ſeven <hi>per cent.</hi> of <hi>Flemiſh</hi> meaſure, and of <hi>Engliſh</hi> contents allow but five <hi>per cent.</hi>
+                  </item>
+                  <item>Ercept <hi>Gentiſh</hi> of <hi>Gentiſh</hi> meaſure, being contented by the <hi>Gentiſh</hi> meaſure, includes the allowance of five <hi>per cent,</hi> and ſo no allowance to be made thereupon.</item>
+               </list>
+               <list>
+                  <head>M</head>
+                  <item>
+                     <hi>MAdder,</hi> in bales, great and ſmall, ſingle and double bags, for tare twenty eight pound weight onely.</item>
+                  <item>In Fats, for tare ten pound weight <hi>per cent</hi>
+                  </item>
+                  <item>
+                     <hi>Mirrhe,</hi> the cheſt, tare the cheſt, and allow for the tare accordingly.</item>
+               </list>
+               <list>
+                  <head>N</head>
+                  <item>
+                     <hi>NVtmegs,</hi> in cask, for tare ten <hi>per cent.</hi> ſuttle.</item>
+               </list>
+               <list>
+                  <pb n="19" facs="tcp:39352:11"/>
+                  <head>O</head>
+                  <item>
+                     <hi>Oils,</hi> in certain cask, one in ten for allowance of five <hi>per cent.</hi> and leakage, under ten none, under twenty but one, under thirty but two.</item>
+                  <item>
+                     <hi>Oils,</hi> in <hi>Candy</hi> barrels, for tare twenty eight pound weight onely.</item>
+                  <item>
+                     <hi>Oils,</hi> in uncertain cask to be weighed, and to be allowed eightéen pound weight <hi>per cent.</hi> out of the groſſe hundred, for tare.</item>
+                  <item>Note, that ſeven pound and a half makes a gallon, two hundred thirty ſix gallons makes a tunne Civil gage.</item>
+                  <item>
+                     <hi>Olibanum,</hi> the hogſhead, to be tared, and allowance of tare to be made accordingly.</item>
+               </list>
+               <list>
+                  <head>P</head>
+                  <item>
+                     <hi>SAlt-peeter,</hi> in cask, for tare twelve pound weight <hi>per cent.</hi>
+                  </item>
+                  <item>
+                     <hi>Salt-peeter,</hi> the bale, for tare thirty pound weight onely.</item>
+                  <item>
+                     <hi>Pepper,</hi> the bags containing thrée hundred pound weight and up wards: in ſingle bags, for tare four pound weight onely.</item>
+                  <item>In double bags of the ſame weight, for tare ſeven pound weight onely.</item>
+                  <item>
+                     <hi>Prunes,</hi> in cask, for tare twelve pound weight <hi>per cent.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>R</head>
+                  <item>
+                     <hi>RAiſons,</hi> in frails from <hi>Maligo,</hi> containing about thrée quarters of a hundred, for tare four pound weight <hi>per</hi> frail onely.</item>
+                  <item>
+                     <hi>Lippora Raiſons.</hi> the barrell containing about one hundred weight, tare <hi>per</hi> barrell fourtéen pound weight onely.</item>
+                  <item>
+                     <hi>Raiſons ſolis,</hi> in cask, for tare twelve pound weight <hi>per cent.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>S</head>
+                  <item>
+                     <hi>SMalt,</hi> or <hi>Powder-blew,</hi> in cask, for tare ten pound weight <hi>per cent.</hi>
+                  </item>
+                  <item>
+                     <hi>Silks,</hi> in bales of <hi>Bolonia,</hi> package with ſereclothes, containing about two hundred weight, for tare twenty eight pound weight onely.</item>
+                  <item>In bales of <hi>Naples,</hi> with ſereclothes, containing about two hundred weight, for tare fourtéen pound weight onely.</item>
+                  <item>
+                     <hi>Fangats</hi> of <hi>Naples,</hi> containing about one hundred and a half, for tare twelve pound weight onely; And ſo proportionably downwards.</item>
+                  <item>
+                     <hi>Meſlina</hi> bales, throne and raw, for tare eight pound weight onely.</item>
+                  <item>
+                     <hi>Raw Silk</hi> long bales of <hi>Aleppo,</hi> with Cotton wooll, containing about thrée hundred a quarter; and ſo to two hundred and thrée quar<g ref="char:EOLhyphen"/>ters, for tare thirty pound weight onely.</item>
+                  <item>
+                     <hi>Ardas Silk</hi> in <hi>Aleppo,</hi> ſhort bales, of the ſame contents, and packed with Cotton wooll, for tare twenty eight pound weight onely.</item>
+                  <item>
+                     <hi>Fangats</hi> of <hi>Aleppo.</hi> containing two hundred and a quarter, or two hundred and a half, for tare twenty four pound weight onely.</item>
+                  <item>
+                     <hi>Fangat</hi> of <hi>Aleppo,</hi> containing one hundred thrée quarters, or two hun<g ref="char:EOLhyphen"/>dred weight, for tare twenty pound weight onely.</item>
+                  <pb n="20" facs="tcp:39352:12"/>
+                  <item> 
+                     <hi>Fangats</hi> of <hi>Aleppo,</hi> containing one hundred &amp; a quarter, or one hun<g ref="char:EOLhyphen"/>dred and a half, for tare eighteen pound weight onely.</item>
+                  <item>
+                     <hi>Raw Silk</hi> of <hi>Smvrna,</hi> or <hi>Cyprus,</hi> containing thrée hundred and up<g ref="char:EOLhyphen"/>wards, for tare ſixtéen pound weight onely: Downwards to two hundred, for tare fourteen pound weight onely.</item>
+                  <item>From two hundred weight downwards, for tare ten pound weightouly Bales of <hi>Silk</hi> from <hi>Perſia,</hi> containing about one hundred and a quar<g ref="char:EOLhyphen"/>ter, for tare eightéen pound onely.</item>
+                  <item>
+                     <hi>Synamon</hi> in skins, covered with bags, fourtéen pound weight for tare <hi>per</hi> ſuttle hundred.</item>
+                  <item>Without bags twelve pound weight for Tare only.</item>
+                  <item>
+                     <hi>Sugar</hi> in bales from <hi>India,</hi> for tare thirty ſix pound weight onely.</item>
+                  <item>In Cheſts one fifth part for tare.</item>
+                  <item>In Cask one ſixth part for tare.</item>
+                  <item>
+                     <hi>Sugar-Candy,</hi> tare them, and make allowance of tare accordingly.</item>
+                  <item>
+                     <hi>Sugar</hi> of St. <hi>Thomas,</hi> in Cask, one fifth part for tare.</item>
+                  <item>
+                     <hi>Sugar</hi> in Canniſters, one ſixthe part for tare.</item>
+                  <item>
+                     <hi>Loaf-Sugar,</hi> Paper, Thred and Straw, for tare fifteen <hi>per cent.</hi>
+                  </item>
+                  <item>
+                     <hi>Shumack</hi> in bags, contaning about thrée hundred and a half, for tare ſeven pound weight onely.</item>
+                  <item>
+                     <hi>Shumack</hi> in bags, containing about ſeven hundred weight, for tare ten pound weight onely.</item>
+                  <item>
+                     <hi>Succads</hi> the Cheſt containing about one hundred and a half, for tare thirty two pound weight onely.</item>
+               </list>
+               <list>
+                  <head>T</head>
+                  <item>
+                     <hi>TAllow</hi> from <hi>Ruſſia</hi> in cask, and from <hi>Ireland,</hi> for tare ten pound weight <hi>per cent.</hi>
+                  </item>
+                  <item>
+                     <hi>Thred,</hi> Siſters, Dutnell, Whited brown, Briges, or black and brown, is to be told, and to pay by the <hi>Flemiſh</hi> pound as formerly.</item>
+                  <item>
+                     <hi>Tabacco, Spaniſh</hi> in barrels, containing about two hundred and a quarter, for tare twenty eight pound weight onely.</item>
+                  <item>In half barrels, containing about one hundred &amp; a quarter, for tare eightéen pound weight onely.</item>
+                  <item>
+                     <hi>Spaniſh</hi> in Pottaccos, without Canvis, for tare twelve pound weight onely.</item>
+                  <item>With Canvis, for tare fourtéen pound weight onely.</item>
+                  <item>With skins for tare twenty ſix pound weight onely.</item>
+                  <item>
+                     <hi>Virginia</hi> in Dogſheads, for tare ſeventy pound weight only.</item>
+                  <item>
+                     <hi>Tabacco Barbadoes</hi> in Role <hi>per</hi> ſtick, for tare four pound weight only.</item>
+                  <item>
+                     <hi>Tobacco Barmudas</hi> in Cheſts and uncertain Caske, tare them, and make allowance accordingly.</item>
+               </list>
+               <list>
+                  <head>W.</head>
+                  <item>
+                     <hi>WOrm-ſeeds</hi> from <hi>Aleppo</hi> with <hi>Cotton-wooll,</hi> for tare twenty four pound weight only.</item>
+                  <pb n="21" facs="tcp:39352:12"/>
+                  <item> 
+                     <hi>Worm-ſeeds</hi> and <hi>Anniſeeds</hi> bailes, with Felts from <hi>smyrna,</hi> con<g ref="char:EOLhyphen"/>taining about thrée hundred and thrée quarters, for Tare twenty pound weight only.</item>
+                  <item>
+                     <hi>Caſteil Spaniſh</hi> Felt wooll, containing about two hundred and a quarter, for Tare fourteen pound weight only.</item>
+                  <item>
+                     <hi>Eſtridge</hi> or Lambs wooll, for Tare to be allowed four pound weight <hi>per Cent.</hi>
+                  </item>
+                  <item>
+                     <hi>Poliſh-wool,</hi> for Tare to be allowed four pound weight <hi>per Cent</hi>
+                  </item>
+                  <item>
+                     <hi>Spaniſh</hi> Cloth Wooll, containing about two hundred weight, for tare twenty eight pound weight only.</item>
+                  <item>
+                     <hi>Sigovia Spaniſh</hi> felt wooll, containing about two hundred weight, for Tare fourtéen pound weight only.</item>
+               </list>
+               <list>
+                  <head>Y.</head>
+                  <item>CAble yarn in Winchis from <hi>Ruſſia,</hi> for tare twenty eight pound weight only.</item>
+                  <item>
+                     <hi>Yarn</hi> in Fats from <hi>Eaſtland,</hi> for Tare ten pound weight <hi>per Cent.</hi>
+                  </item>
+                  <item>
+                     <hi>Grogoram</hi> and <hi>Moehair</hi> yarn, in bales from <hi>Aleppo</hi> with <hi>Cotton</hi> wooll, for Tare twenty ſix pound weight.</item>
+                  <item>
+                     <hi>Fangats</hi> of <hi>Aleppo,</hi> containing about one hundred and a quarter, for Tare eightéen pound weight only.</item>
+                  <item>And proportionably downwards.</item>
+                  <item>Bales of <hi>Moehair</hi> yarn from <hi>Smyrna</hi> with Felts, containing about four hundred weight, for Tare twenty four pound weight only.</item>
+                  <item>
+                     <hi>Moehair</hi> yarn without Felts, about the ſame contents for Tare ſix<g ref="char:EOLhyphen"/>téen pound weight only.</item>
+                  <item>
+                     <hi>Fangats</hi> of <hi>Moehair</hi> yarn, containing one hundred three quarters, or two hundred, without Felts, for Tare twelve pound weight only.</item>
+                  <item>
+                     <hi>Fangats</hi> containing about one hundred and half, without Felts, for Tare ten pound weight only.</item>
+               </list>
+            </div>
+            <div type="directions">
+               <pb n="22" facs="tcp:39352:13"/>
+               <head>Directions to be obſerved in the Coaſt-buſineſſe.</head>
+               <p>
+                  <note n="(a)" place="margin">Book of Entries for the Coaſt-buſineſs.</note> EVery Collector is to prepare a Paper-Book for the entry of the Coaſt-Corquets, Tranſtres and returns for the preceding year, ending alwayes the twenty fourth of <hi>Dccemb.</hi> and to be returned toge<g ref="char:EOLhyphen"/>ther with the Book Accounts, every twenty fourth of <hi>June.</hi>
+               </p>
+               <p>That this Coaſt-Book be ruled with a double Margent, the one to the righthand, the other to the left hand, on each ſide; and in one part of it, he is to enter all Cocquets and Tranſtres outwards, pla<g ref="char:EOLhyphen"/>ring the name of the Port for which the Goods are ſhipped, in the Margent to the left hand: on the other side the date of the Certifi<g ref="char:EOLhyphen"/>cate, or return from the Port where they were landed.</p>
+               <p>In another part of the Book he is to write, and enter all Cocquets and Transtres for Goods inwards; and in the margent of the left hand, to enter the name of the Port from whence the Goods came, &amp; in the other margent, the date of his Certificate or refurn.</p>
+               <p>In the body of the Book, betwéen the two margents, he is to make an exact entry of the Goods, as well in wards as outwards, with the date of the reſpective Cocquets or Tranſires.</p>
+               <p>He is carefully to examine and compare theſe Books with the Bonds and files, before he return them into the Exchequer, and to file ſuch returns as he receiveth from the Ports, to the Bonds to which they belong, and ſo return them all together, as well the Bonds for which there are returns; as thoſe for which there are none, the twen<g ref="char:EOLhyphen"/>ty fourth day of <hi>Iune,</hi> at which time he is ſo to order his affairs, that he may with the moſt conveniency come up to <hi>London;</hi> but in caſe his affairs will not permit, he is to have a Commiſſion iſſued out of the Exchequer, for taking his Oath, and delivering in his books in the Country, and in caſe he cannot come up, he is to give notice a moneth before, that a Commiſſion may in time be ſent unto him.</p>
+               <p>The Collector, and the reſt of the Officers of every Port &amp; Créek, are to take care, that no Goods whatſoever be ſhipped from Port to Port, before a ſufferance be paſſed for the ſame, nor any native Com<g ref="char:EOLhyphen"/>modities, or manufactures made thereof, be tranſported before a Coc<g ref="char:EOLhyphen"/>quet be paſſed, and good ſecurity be given for landing of the ſame, at ſome Port of this Nation, as is provided by Law, nor any forreign goods, before a Tranſire te paſst for the ſame; nor any more, or greater quantities then are therein ſpecified; and if any goods, or Merchandize be brought into one Port from another, or ſhall be landed or found aboard any ſhip, <hi>whether landed, or not landed;</hi> for which there is no Cocquet, or tranſire, or being more in quantity, then is in the <hi>Cocquet,</hi> or <hi>tranſire</hi> therein mentioned, that in ſuch caſes,
+<pb n="23" facs="tcp:39352:13"/>ſeiſure be made, and notice thereof given to the Commiſſioners; and that the ſame be not diſcharged without order. And as in all other Commodities, ſo eſpecially care is to be uſed in the Caſe of Fullers-earth, Wooll, and Salt, the two firſt is exported, being dangerous to the Nation, and the other if more ſhipped, or landed, then is in the Cocquet, or Certificate expreſſed, is prejudiciall to the receipt of Exciſe, the ſame paying avery conſiderable Cuſtome and Exciſe.</p>
+               <p>That no Collector make a Certificate, Return, or diſcharge, before ſome Surveighor, or waiter, by endorſing the Cocquet, hath certified his knowledge of the landing of the Goods.</p>
+               <p>
+                  <note n="(b)" place="margin">Fullers Earth, Tobac<g ref="char:EOLhyphen"/>co pipe Clay, Wooll, &amp;c.</note> In as much as deceipt in and about the tranſportation of Fulllers earth, Tobacco pipe Clay, and other Clay, ariſeth originally at the Ports &amp; places where the ſame is ſhipped in that more is ſhip<g ref="char:EOLhyphen"/>ped then the Merchant taketh out a Cocquet for, for prevention whereof it is required.</p>
+               <list>
+                  <item>1. That diligent care be taken by the Collector and Officers, that no more be laden on board any veſſell, then for which a Cocquet is paſſed.</item>
+                  <item>2. That no ſhips that lie out of Command, be permitted to take in any of the aforeſaid Commodity, but that ſtay may be made of all lighters, or any other veſſels, that would carry any of the aforeſaid Commodities to ſuch ſhip.</item>
+                  <item>3. That in caſe any woollen yarn, woollen flocks wooll-fles, Ful<g ref="char:EOLhyphen"/>lers earth, Tobacco pipe Clay, or any other Earth, or Clay, which may be uſed in the Art of Fulling, or any other goods, be brought from any Port of this Common-wealth unto a Port by Coaſt Cocquet, that care be taken, that the Officers do ſee the whole quantity unla<g ref="char:EOLhyphen"/>den in the Port, and the ſhips clearly unladen before departure. Re<g ref="char:EOLhyphen"/>miſneſſe in this particular, gives occaſion to divers perſons, to land one half of their goods, and what ever they pleaſe, and to get a Certi<g ref="char:EOLhyphen"/>ficate for the whole, and to tranſport, and carry the reſt beyond the Seas, without payment of Cuſtome.</item>
+               </list>
+               <p>And if any perſon, or perſons ſhall tranſport, or enter to be tran<g ref="char:EOLhyphen"/>ſported for the Coaſt, to any Port of this Common-wealth, any of the ſaid woollen yarn, woollon flocks, wooll fels, earth, or clay; he ſhall take double ſecurity (over and above double the value) for the three ſhillings for every pound thereof, with condition, that the ſame ſhall be landed in ſome Port of this Nation, as is directed by Law, and according to the Tenor of the uſuall Coaſt Bonds.</p>
+               <p>In this, and all caſes, but this eſpecially, very good ſecnrity is to be taken, for that it is expected, that all diligence, and good conformity be had thereunto.</p>
+               <p>Every perſon or perſons, that will ſhip, or carry any goods, or Mer<g ref="char:EOLhyphen"/>chandizes prohibited, or whereof any the duties of Cuſtome, and ſub<g ref="char:EOLhyphen"/>ſidy are payable, to diſcharge the ſame, in any other Port, or place of this Nation, ſhall before the ſhipping thereof declare, and manifeſt under his or their to the Collector and Checque of the Cuſtoms, in the Port where the ſame ſhall be ſhipped in the Cuſtome-houſe,
+<pb n="24" facs="tcp:39352:14"/>the meaſure, length, number, and other contents, and value of ſuch goods, together with the name of the ſhip, and of the Maſter, the place of whence, and for which he is fraighted, and with the approbation of the ſaid Collector and Checque, ſhall alſo make and enter into a ſufficient Obligation in the Law, in which he ſhall be bound with ſufficent ſureties in ſuch ſums of moneys as ſhall amount to double the vaine of the goods ſo declared and manifeſted, with condi<g ref="char:EOLhyphen"/>tion that the ſame ſhall be diſcharged at ſome Creek, within <hi>England</hi> or <hi>Scotland,</hi> and is no other place, and in caſe any the laid goods, or Merchandizes ſhall be ſhipped in any ſhip or other veſſell, to be car<g ref="char:EOLhyphen"/>ried, or paſſed between Port, and Port as aforeſaid, before ſuch De<g ref="char:EOLhyphen"/>claratien ſhall be made, and ſecurity given as aforeſaid, that then all and every the ſaid goods, and Merchandize ſhall be forfeited and loſt, the one moyetie, or value there of to him, or them that will ſeize, or ſue for the ſame, and the other moyetie, or value thereof, or the fine, or compoſition for the ſame, to be paid to the Commiſſioners of the Cuſtomes for the time being, for the uſe of his Highneſſe, the Lord <hi>Protector,</hi> and the Common-wealth.</p>
+               <p>That every perſon or perſons, that ſhall ſhip ſuch goods, and ſhall be bound as aforeſaid, ſhall within four moneths next after ſhipping thereof, bring a true certificate from the port or place, where he or they ſhall diſcharge the ſaid goods, teſtifying that the ſaid goods ſo ſhip<g ref="char:EOLhyphen"/>ped, and the true nature, length, weight, number and other contents or value thereof, are there diſcharged, which Certificate ſhall upon diſcharge of the goods be delivered to the party diſcharging the ſame, without delay, and all and every the ſaid bonds, for which Certificates are returned, ſhall be delivered half yearly unto the <hi>Ezchequer;</hi> with the Certificate thereunto annexed, and endorſed alſo thereupon, and every <hi>Midſummer</hi> (after the accompt of the Officer who did take them is paſſed) the ſaid bonds ſhall be delivered to every perſon that will ſue for the ſame, paying onely twelve pence for delivery thereof, to the Officer that hath the Cuſtody of them.</p>
+               <p>All other of the ſaid bonds that be expired, and no Certificate re<g ref="char:EOLhyphen"/>turned according to the conditions, ſhall be delivered into the <hi>Exche<g ref="char:EOLhyphen"/>quer</hi> half yearly, that excution may be had thereupon.</p>
+            </div>
+            <div type="directions">
+               <head>Directions touching Seizures and Demiſes.</head>
+               <p>
+                  <note n="(c)" place="margin">Directi<g ref="char:EOLhyphen"/>ons about Sei<g ref="char:EOLhyphen"/>zures.</note> THat every Officer, who ſhall make any Seizure, or Demiſe of any Goods or Merchandize, as prohibited, or uncuſtomed, ſhall thereupon with all poſſible ſpeed acquaint the Commiſſioners of the Cuſtomes therewith and likewiſe certifie the ſame to the <note n="(d)" place="margin">Commiſ<g ref="char:EOLhyphen"/>ſioners and Regiſter to be acquainted with all Sei<g ref="char:EOLhyphen"/>zures.</note> Re<g ref="char:EOLhyphen"/>giſter of Seizures in the Port of <hi>London</hi> for the time being, that they may be by him duly recorded.</p>
+               <pb n="25" facs="tcp:39352:14"/>
+               <p>
+                  <note n="(e)" place="margin">Quantity and quality of the Goods ſeized, to be certified to the Regiſter.</note> That ſuch Officers do likewiſe certifie unto the ſaid Regiſter, together with the quantity and quality of the Goods ſo ſeized, the time when, and ground whereupon he ſeized or demiſed the ſame, with ſuch other circumſtances as are fit to be known for exhibiting an information in the Exchequer againſt the ſame, in caſe the ſaid Com<g ref="char:EOLhyphen"/>miſſioners ſhall according to the truſt repoſed in them think fit ſo to direct.</p>
+               <p>
+                  <note n="(f)" place="margin">Licence to compound.</note> That in caſe any proprietor of any Goods ſeized or demiſed as aforeſaid ſhall procure a Licence to compound for the ſame, the Of<g ref="char:EOLhyphen"/>ficer before he treat or compound thereupon, do cauſe the ſaid Goods to be apprized by vertue of a Writ of apprizement out of the Exchequer, which Writ the ſaid Regiſter is hereby required to procure at the requeſt and charge of the ſaid Officer, and to ſend to the ſaid Officer with all ſpeed; and the Officer (having cauſed the ſaid Goods to be apprized) is forthwith to return the ſame Writ with the Indenture of apprizement thereunto annered, unto the ſaid Regiſter, to be by him regiſtred, and afterwards returned into the Exchequer, in order to further proſecution.</p>
+               <p>
+                  <note n="(g)" place="margin">The Offi<g ref="char:EOLhyphen"/>cer not to compound at leſſe then one third.</note> That for preventing of fraud in Compoſitions, no Officer do by vertue of any ſuch Licence compound for his part, at any leſſe rate then the one third part of the whole, according as the ſaid Goods are apprized, unleſs the ſaid Commiſſioners (being firſt acquainted there<g ref="char:EOLhyphen"/>with) do give other directions in the caſe.</p>
+               <p>
+                  <note n="(h)" place="margin">The Of<g ref="char:EOLhyphen"/>ficer to certifie the Collector, what he com<g ref="char:EOLhyphen"/>poundeth for.</note> That ſuch Officer (having made his Compoſition) do forth<g ref="char:EOLhyphen"/>with certifie the Collector of the Port whereunto he doth belong, what he hath, or is to receive by way of Compoſition for his part, for the Goods ſo ſeized or demiſed as aforeſaid, and for any charge of in<g ref="char:EOLhyphen"/>telligence, or otherwiſe by him disburſed about the ſame, and ſhall in the preſence of the ſaid Collector, endorce upon the ſaid Licence, in words at length, and not in figures, what the ſame amounteth unto in one entry ſumme and ſubſcribe his name thereunto.</p>
+               <p>
+                  <note n="(i)" place="margin">Licence to be returned to the Regiſter.</note> That ſuch Officers forthwith return the ſame Licence ſo en<g ref="char:EOLhyphen"/>dorſed to the ſaid Regiſter, to be by him regiſtred and entred in the Exchequer, and then to be kept by him, until ſome ſeaſonable oppor<g ref="char:EOLhyphen"/>tunity be offered, whereby the Officer may take his Oath in a legal way, according to what is endorſed and ſubſcribed as aforeſaid, and that the ſaid Officer do then likewiſe return unto the ſaid Regiſter, the money for charges expended in the Exchequer in that fuſe upon in<g ref="char:EOLhyphen"/>timation from him what the ſaid charges are.</p>
+               <p>
+                  <note n="(k)" place="margin">Goods ſeized, not to be delivered till the States part and Cu<g ref="char:EOLhyphen"/>ſtoms be payd.</note> That ſuch Officer having made his Compoſition, do not deli<g ref="char:EOLhyphen"/>ver, nor ſuffer to be delivered, ſuch Goods out of cuſtody, until the States part of ſuch Compoſition (which is the like ſum compounded for,) as alſo the Cuſtoms due for the ſame, be payd to the Collector of ſuch Ports, for the uſe of the Common wealth.</p>
+               <p>
+                  <note n="(l)" place="margin">And ſecu<g ref="char:EOLhyphen"/>rity given for rating the Fine.</note> That in ſuch caſes, the ſaid Collector take good ſecurity, or a greater ſum of money, then the charges of the Exchequer, in rating the fine and ſuing out of the <hi>Quietus eſt,</hi> do amount unto, (which cannot be leſſe to be depoſited to that end, then the ſum of five pounds) of the proprietor, before his Goods be delivered, with condition to pro<g ref="char:EOLhyphen"/>cure
+<pb n="26" facs="tcp:39352:15"/>his fine to be rated the next Terme at furtheſt, after he is in<g ref="char:EOLhyphen"/>formed by the Officer with whom ſuch compoſition is made, that Oath is by him made in a legal manner of his Compoſition upon the Licence aforeſaid, to the end, the Officer may be legally diſcharged of his ſaid ſeizure upon Record; and in default thereof, to leave the ſaid ſum depoſited.</p>
+               <p>
+                  <note n="(m)" place="margin">The Offi<g ref="char:EOLhyphen"/>cer to pay the States moyety for Goods con<g ref="char:EOLhyphen"/>demned with<g ref="char:EOLhyphen"/>in twenty dayes.</note> That when any ſuch Goods ſeized, are condemned in the Ex<g ref="char:EOLhyphen"/>chequer, the Officer (to whom the benefit thereof doth accrew,) do within twenty daves after ſuch condemnation inrolled in the Ex<g ref="char:EOLhyphen"/>chequer, and certified unto him by the ſaid Regiſter, pay unto the Col<g ref="char:EOLhyphen"/>lector, the moyety due unto the State according as they are apprized, and forthwith certifie the ſaid Regiſter of the payment thereof, and do likewiſe forthwith return unto the ſaid Regiſter, the charges ex<g ref="char:EOLhyphen"/>pended in the Exchequer, by reaſon of the ſaid ſure, being made ac<g ref="char:EOLhyphen"/>quaninted by the ſaid by the ſaid Regiſter, what the ſaid charges are.</p>
+               <p>
+                  <note n="(n)" place="margin">No Goods to be deliver<g ref="char:EOLhyphen"/>ed by vertue of Writs of Delivery, till Cuſtoms be payd.</note> That no Officer of the Cuſtoms deliver any Goods from un<g ref="char:EOLhyphen"/>der ſeizure by vertue of any Wait of delivery, until the Cuſtoms be payd to the Collector of ſuch Port for the ſame.</p>
+               <p>
+                  <note n="(o)" place="margin">Goods ſecured.</note> That all Goods ſeized by any Officer of the Cuſtoms, in any of the out-Ports, be brought into the <hi>States</hi> Ware-houſe belonging to ſuch Port, where there is any; and is caſe there be none, then into ſuch other place, as the Collector ſhall appoint for ſecuting thereof, until they be condemned, or otherwiſe legally diſcharged.</p>
+               <p>That the Collectors of the ſeveral Ports, do take eſpecial care, that upon all apprizements made of Goods ſeized, the ſame be truly valued, and that they receive Cuſtom in all caſes of compoſition of any Goods, And if they ſhall ſee it, and judge, it moſt for the <hi>Common-wealths</hi> advantage, that then they take the moyety of ſuch Goods in kind, and forthwith acquaint the Commiſſioners there with, to the end, they may receive direction therein, for the ſale thereof, and that all perſons making ſeizure before diſpeſſtion be by them made of any part of the Goods and Merchandizes by them ſeized, do in the ſeveral out-ports, acquaint the Collector of that Port, where ſuch ſeizure is made, therewith, to know whether they will take the <hi>Common-wealths</hi> moyety in kinde or not.</p>
+               <p>
+                  <note n="(p)" place="margin">How the Collector ſhall return monies received for ſeizures.</note> That having received any any monies for the <hi>Common-wealths</hi> part of any ſeizure before the delivery of any Goods or Merchandizes according to the Inſtructions aforeſaid, he do forthwith return the ſame by Bill of Exchange or otherwiſe to the Caſhier General. And that with the ſaid Bill he ſend a Letter of advice, ſignifying parti<g ref="char:EOLhyphen"/>cularly, whether the ſaid ſum, or any part thereof by him returned, be for a Compoſition, or upon a recovery, and to each expreſſe the name of the perſon ſeizing, as alſo the perſon claiming, if there be any Claimer, And in all caſes of ſums of money received by compo<g ref="char:EOLhyphen"/>ſition he is in his Letters of advice, to expreſſe whether the ſum of money received upon ſuch compoſition, be depeſited until the fine ſhall be rated, or whether the ſame be received by him, accor<g ref="char:EOLhyphen"/>ding to a fine already rated by the Barons of the Excheguer.</p>
+               <pb n="27" facs="tcp:39352:15"/>
+               <p> He is to take notice, that he is not charge his quarter books, or yearly Books, with the receipt of any monies for fines or forfeitures, but to ſend up yearly, or oftner, an accompt thereof apart by it ſieſe.</p>
+            </div>
+            <div type="part">
+               <head>Concerning the Collectors Accompts.</head>
+               <p>
+                  <note n="(q)" place="margin">Collectors Accompts.</note> EVery Collector is to keep a Book in the <hi>Cuſtom-houſe,</hi> where, in he is to enter all Goods and Merchandizes, as well import<g ref="char:EOLhyphen"/>ed into, as exported out of the Port whereunto he is appointed, with the vaine and Rates of Goods paying ſubſidy, and with the product thereof, and of all other duties.</p>
+               <p>Every Collector is within four dayes after the cloſe of each Quar<g ref="char:EOLhyphen"/>ter, to ſend up a Book of all Entries paſſed in the Port and Mem<g ref="char:EOLhyphen"/>bers thereof under his charge together with the ſubſidy, Cuſtom and petty Cuſtom ariſing thereby, or any other ſums of money by him re<g ref="char:EOLhyphen"/>ceiveable or received, duly charged therein: As alſo an accompt cur<g ref="char:EOLhyphen"/>rant of his receipts and diſburſements, in which, as alſo in all ac<g ref="char:EOLhyphen"/>compts, he is eſpecially to mention</p>
+               <p>The name, ſir-name and Office of every Officer to whom he ſhall pay any ſalary, as alſo the time of the ſer<g ref="char:EOLhyphen"/>vice for which ſuch Officer is payd.</p>
+               <p>The particular ſervices for which he ſhall disburſe any ſums of money upon petty charges together with the name and ſir-name of the party receiving the ſame: upon payment whereof, he is to task Acquittances endorſed for his diſcharge, as well as for the Salaries, and other pay<g ref="char:EOLhyphen"/>ments of greater moment.</p>
+               <p>With this Accompt currant, he is to ſend up all his Acquittances, and Vouchers thereunto appertaining, for the better paſſing his Accompt in the Commiſſioners ge<g ref="char:EOLhyphen"/>nerall Accompt, with the Auditors of the Impreſt, and both theirs, and the Collectors diſcharge thereupon.</p>
+               <p>He is to divide every quarter into three periods, as from <hi>25 Martij.</hi> incluſive, to <hi>1. May</hi> excluſive, form the <hi>1. May</hi> incluſive, to the <hi>1.</hi> of <hi>June</hi> excluſive, from the <hi>1.</hi> to the <hi>24 June</hi> excluſive, And for the two firſt periods, to ſend up an abſtract of his Receipts for the ſaid month, ſigned by himſelf in order following, <hi>viz.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="28" facs="tcp:39352:16"/>
+               <head>An Abſtract of the monies collected for Cuſtoms and Subſidy in the ſaid Port, from the 25<hi rend="sup">o</hi> 
+                  <hi>Martij</hi> incluſive, to the 1. <hi>May</hi> excluſive.</head>
+               <lg>
+                  <l>
+                     <hi>For Cuſtom and Subſidy outwards</hi>—</l>
+                  <l>
+                     <hi>For the like inwards—</hi>
+                  </l>
+                  <l>
+                     <hi>For petty Cuſtoms—</hi>
+                  </l>
+                  <l>
+                     <hi>For Coles—</hi>
+                  </l>
+               </lg>
+               <p>And the particulars of ſuch other Receipts as by Autho<g ref="char:EOLhyphen"/>rity ſhall be from time to time ſetled and impoſed.</p>
+               <p>
+                  <hi>In Toto—</hi>
+               </p>
+               <p>
+                  <hi>Per A. B. Collectors.</hi>
+               </p>
+               <p>And in regard the third moneth contains the cloſe of the Quarter, he is to make up his Quarter-Book, and to cauſe the ſame to be tranſmitted to the Commiſſioners aforeſaid, and the remaining dayes of that moneth, wherein is the termination of any Quarter, are to be added to the ſubſequent moneth: which Order is like wiſe to be obſerved in all the Member Ports, who do account to the Collectors of the head-Port, and to be timely by them tranſmitted to the Col<g ref="char:EOLhyphen"/>lectors, to whom they account, to be ſent to the Commiſſioners afore<g ref="char:EOLhyphen"/>ſaid, and may not be omitted by them; for albeit their Receipt ſhould not produce any thing in ſome of the ſaid moneths, yet moſt of their monethly Abstracts be returned with <hi>Nihil,</hi> and atteſted as afore<g ref="char:EOLhyphen"/>ſaid, That the <hi>Common-wealth</hi> may know what to except at the end of each moneth; and neither the Commiſſioners nor Collectors be un<g ref="char:EOLhyphen"/>duly charged.</p>
+               <p>He is in every Quarter-Book, to mention what Bills of ſtore or Portage he hath granted for that Quarter, the quantity of the Goods, the perſons to whom, and for what cauſe.</p>
+               <p>For the perfecting of this monethly Accompt with the <hi>Common<g ref="char:EOLhyphen"/>wealth,</hi> and fréeing the Commiſſioners and himſelf from blame, he is conſtantly to make uſe of all Good, encounters, offering for returns of ſuch monies to the Commiſſioners, as his Receipts ſhall from time to time afford, ſo as all his monies received, may be in readineſs with the Commiſſioners here, to make good his Ports Receipts within eight dayes after the cloſe of each moneth and quarter; and in caſe of failer of encounters, that he fail not to acquaint the Commiſſioners from time to time, that they may timely provide returns for ſuch mo<g ref="char:EOLhyphen"/>nies, or take order otherwiſe to diſpoſe thereof, for his diſcharge therein; for whether the monies arive or not, the Commiſſioners muſt make good the Receipts of each Collector to the State, at the time ap<g ref="char:EOLhyphen"/>pointed by them.</p>
+               <pb n="29" facs="tcp:39352:16"/>
+               <p> And for his ſatisfaction and diſcharge, and avoiding of all preju<g ref="char:EOLhyphen"/>dice, which may perchance by ſome be imagined to ariſe unto them, by parting with their Vouchers, before their Accompts be determined, the Commiſſioners do declare, that as without ſight of the Vouchers, no demand can be allowed in Accompt; ſo upon receipt thereof, if he ſend duplicate of his Accompt currant, or a Liſt apart of ſuch Vouch<g ref="char:EOLhyphen"/>ers as he ſends up, the Commiſſioners will direct their Accomptant Generall (whoſe ſignature they will own) whereby the Commiſſit<g ref="char:EOLhyphen"/>oners will acknowledge the Receipt of the ſaid Vouchers, and charge themſelves therewith.</p>
+               <p>Every Collector is to ſend up unto the Commiſſioners (other and a<g ref="char:EOLhyphen"/>bove the four Quarter-Books, and the Accompts currant, and all things relating thereunto, as before mentioned) one years Book con<g ref="char:EOLhyphen"/>taining all particulars mentioned in his four ſeverall Quarter-Books, which years Book is to determine every four and twentith of <hi>June.</hi>
+               </p>
+               <p>And to the end, the Collector in the Member-Ports, who do ac<g ref="char:EOLhyphen"/>compt to the Collector of the head-Port, may not be put to néedleſſe troubles in coming up to <hi>London,</hi> to take their Oaths upon their yearly Accompt: The Commiſſioners do direct, that the Collector of the head-Port, upon receipt of their Accompts yearly, do admini<g ref="char:EOLhyphen"/>ſter this enſuing Oath unto them, <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>You ſhall ſwear,</hi> 
+                  <note place="margin">The Collectors Oath.</note> 
+                  <hi>That the Accompt by you made, containeth the perfect Entries of all Goods and Merchandizes whatſoever, with the Subſidy and Cuſtom, and all other ſums of money thereupon due and payable, by reaſon of expor<g ref="char:EOLhyphen"/>tation and importation thereof into the Port of a member of the Port of As alſo, that the ſeverall ſum, or ſums of money, mentioned in the ſaid Accompt, to be by you disburſed, are all true, And that there hath not been received, or due, any other ſum or ſums of money, for Subſi<g ref="char:EOLhyphen"/>dy or Cuſtom, for or by reaſon of and Goods or Merchandize exported out of, or imported into the ſaid Port, from the time of the commence<g ref="char:EOLhyphen"/>ment of the ſaid Accompt, to the time of the de<g ref="char:EOLhyphen"/>termination thereof, then are contained therein, And alſo that there hath been truly and really iſ<g ref="char:EOLhyphen"/>ſued and payd within the time aforeſaid, all and every the ſums therein inſerted, to the beſt of your skill and knowledge, <hi>So help you God.</hi>
+                  </hi>
+               </p>
+               <pb n="30" facs="tcp:39352:17"/>
+               <p> Which Dath is to be tranſcrihed at the foot of their Accompts, in their Book of pearly accompt, and to be atteſted by the Collector as taken in his preſence, which will be ſufficient for his diſcharge, as to that which relateth not to his own particular.</p>
+               <p>In caſe any Collector of any the head. Ports, cannot come up to <hi>London</hi> at <hi>Midſummer,</hi> to take his Dath to the pearly Accompt, he is in ſuch caſe to depoſe the truth thereof before the Collector of the next Port adjoyning in form following, <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>I ſweare, that the Accompt by me preſented, &amp;c, as in the Oath of a Sub-Collector.</hi>
+               </p>
+               <p>
+                  <hi>Which Oath is to be written, ſubſcribed and atteſted as before, and ſent up to the Commiſſioners as before.</hi>
+               </p>
+               <p>
+                  <note place="margin">Accompt for the Impert on Coals.</note> He is over and above the Quarter, Books, within ſix dayes after the twelveth of <hi>October,</hi> in each year, to ſend up to the Commiſſio<g ref="char:EOLhyphen"/>ners, an accompt of all monies by him received, by verfue of the new impoſt on Coles, from the firſt of <hi>April,</hi> to the ſaid twelveth of <hi>Octo<g ref="char:EOLhyphen"/>ber</hi> inclussve; and the like for the ſubſequent half years receipt upon Coles, from the <hi>12th</hi> of <hi>October,</hi> to the firſt of <hi>April</hi> excluſive.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="table_of_contents">
+            <pb facs="tcp:39352:17"/>
+            <head>The Table.</head>
+            <list>
+               <head>A.</head>
+               <item>
+                  <hi>ARticles</hi> annexed to the Book of Rates. <hi>Page</hi> 4.</item>
+               <item>Collectors <hi>Accompts. P.</hi> 27.</item>
+            </list>
+            <list>
+               <head>B.</head>
+               <item>
+                  <hi>Bonds</hi> of imployment. <hi>p.</hi> 3.</item>
+               <item>
+                  <hi>Beere. p.</hi> 5.</item>
+               <item>
+                  <hi>Bayes. p.</hi> 6.</item>
+               <item>
+                  <hi>Bullion. p.</hi> 6.</item>
+               <item>
+                  <hi>Books</hi> of Entries for the Coaſt bufineſſe. <hi>p.</hi> 22.</item>
+            </list>
+            <list>
+               <head>C.</head>
+               <item>The <hi>Collectors</hi> to appoint Officers to the ſhips. <hi>p.</hi> 3.</item>
+               <item>
+                  <hi>Cottons. p.</hi> 6.</item>
+               <item>
+                  <hi>Coal-ſeed</hi> and <hi>Coal-ſeed Oyle. p.</hi> 7.</item>
+               <item>No allowance of five <hi>per Cent.</hi> ourwards. <hi>p.</hi> 8.</item>
+               <item>Allowance of II 2 <hi>per Cent.</hi> for leakage. <hi>p.</hi> 8.</item>
+               <item>Form of the <hi>Certificate</hi> and <hi>Oath. p.</hi> 10.12.</item>
+               <item>Form of the <hi>Cocquet. p.</hi> 11. 13.</item>
+               <item>
+                  <hi>Calve-skins</hi> exported. <hi>p.</hi> 14.</item>
+               <item>Impoſt on <hi>Coals. p.</hi> 15.</item>
+               <item>
+                  <hi>Coal-ſhips</hi> entred for the Coaſt, &amp; bound over Sea. <hi>p.</hi> 15.</item>
+               <pb facs="tcp:39352:18"/>
+               <item> The Collectors of the Creeks to give bond about <hi>Coals. p.</hi> 16.</item>
+               <item>The Officer to certifie the <hi>Collector</hi> what he <hi>compoundeth</hi> for. <hi>p.</hi> 25.</item>
+               <item>Forraign Coyne. <hi>p.</hi> 6.</item>
+            </list>
+            <list>
+               <head>D.</head>
+               <item>
+                  <hi>Denizens</hi> to pay as ſtrangers. <hi>p.</hi> 4.6.</item>
+               <item>Form of a <hi>Debentur. p.</hi> 11.</item>
+               <item>
+                  <hi>Defaulcationt. p.</hi> 12.</item>
+               <item>No Goods to be delivered by vertue of <hi>Writs of Delivery,</hi> till Cuſtoms be payd. <hi>p.</hi> 26.</item>
+            </list>
+            <list>
+               <head>E.</head>
+               <item>
+                  <hi>Entryes</hi> outwards. <hi>p.</hi> 2.</item>
+               <item>
+                  <hi>Entryes</hi> by Licence. <hi>p</hi> 2.</item>
+               <item>Goods outwards <hi>entred</hi> in one Ship, but laden in ano<g ref="char:EOLhyphen"/>ther <hi>p.</hi> 2.</item>
+               <item>
+                  <hi>Entries inwards. p.</hi> 3.</item>
+               <item>
+                  <hi>Engliſhmen</hi> inhabiting in the parts beyond the Seas. <hi>p.</hi> 4.</item>
+               <item>What <hi>Engliſhmen</hi> ſhall pay. <hi>p.</hi> 4.</item>
+               <item>All <hi>Entries</hi> to be daily regiſtred. <hi>p.</hi> 12.</item>
+               <item>
+                  <hi>Fullers Earth,</hi> &amp;c. <hi>p.</hi> 22.</item>
+            </list>
+            <list>
+               <head>F.</head>
+               <item>
+                  <hi>Fiſh</hi> as <hi>Herrings</hi> and <hi>Pilchards. p.</hi> 6.</item>
+               <item>Security for rating the <hi>Fine. p.</hi> 25</item>
+            </list>
+            <list>
+               <head>G.</head>
+               <item>
+                  <hi>Goods</hi> cuſtomable. <hi>p.</hi> 4.</item>
+               <item>
+                  <hi>Goods</hi> prohibited. <hi>p.</hi> 4.</item>
+               <pb facs="tcp:39352:18"/>
+               <item> 
+                  <hi>Grocery</hi> Wares. <hi>p.</hi> 4.</item>
+               <item>
+                  <hi>Goods</hi> to be cleared according to the Standard. <hi>p.</hi> 4.</item>
+               <item>
+                  <hi>Goods</hi> to be entred in their own denominations. <hi>p.</hi> 7.</item>
+               <item>
+                  <hi>Goods</hi> to be entred in the owners names, <hi>p.</hi> 7.</item>
+               <item>
+                  <hi>Goods</hi> periſhed or loſt at Sea. <hi>p.</hi> 12.</item>
+            </list>
+            <list>
+               <head>H.</head>
+               <item>Horſes and live Oattel. <hi>p.</hi> 7.</item>
+               <item>Horſes to the <hi>Engliſh</hi> Plantations. <hi>p.</hi> 12.</item>
+            </list>
+            <list>
+               <head>I.</head>
+               <item> </item>
+            </list>
+            <list>
+               <head>K.</head>
+               <item> </item>
+            </list>
+            <list>
+               <head>L.</head>
+               <item>
+                  <hi>Lead. p.</hi> 5.</item>
+               <item>
+                  <hi>Log-wood. p.</hi> 5.</item>
+               <item>
+                  <hi>Lead-oare. p.</hi> 5.</item>
+               <item>
+                  <hi>Licence</hi> to compound for Goods ſeized. <hi>p.</hi> 25.</item>
+               <item>
+                  <hi>Licence</hi> to be returned to the Regiſter. <hi>p.</hi> 25.</item>
+            </list>
+            <list>
+               <head>M.</head>
+               <item>The <hi>Maſter</hi> of <hi>Purſer</hi> to deliver in the contents of their Lading upon Oath. <hi>p.</hi> 1.</item>
+               <item>The <hi>Maſter</hi> to forfeit 100 <hi>l.</hi> for Goods ſhipped at unlawfull time or place. <hi>p.</hi> 2.</item>
+               <item>Every Merchant to have Cocquet, <hi>&amp;c.</hi> by himſelf. <hi>p.</hi> 21.</item>
+               <item>
+                  <hi>Meaſures. p.</hi> 8.</item>
+               <item>The Officer to pay the States moiety for Goods con<g ref="char:EOLhyphen"/>demned, within twenty dayes. <hi>p.</hi> 26.</item>
+            </list>
+            <list>
+               <head>N.</head>
+               <item> </item>
+            </list>
+            <list>
+               <head>O.</head>
+               <item>The Collectors <hi>Oath. p.</hi> 27.</item>
+            </list>
+            <list>
+               <pb facs="tcp:39352:19"/>
+               <head>P.</head>
+               <item>
+                  <hi>Prizage. p.</hi> 5.</item>
+               <item>
+                  <hi>Pan Tiles. p.</hi> 5.</item>
+               <item>
+                  <hi>Prize</hi> Goods and Ships. <hi>p.</hi> 5.</item>
+               <item>No allowance upon <hi>Prize</hi> Goods. <hi>p.</hi> 7.</item>
+               <item>What meant by alteration of <hi>property. p.</hi> 12.</item>
+               <item>
+                  <hi>Poſt-Entries. p.</hi> 13.</item>
+               <item>Orders touching Poſt-Entries. <hi>p.</hi> 13.</item>
+            </list>
+            <list>
+               <head>Q.</head>
+               <item>What meant by alteration of <hi>quality. p.</hi> 12.</item>
+            </list>
+            <list>
+               <head>R.</head>
+               <item>Goods not rated in the Book of <hi>Rates. p.</hi> 7.</item>
+            </list>
+            <list>
+               <head>S.</head>
+               <item>Notice to be given to the Collector, of <hi>Ships</hi> coming in, and going out. <hi>p.</hi> 1.</item>
+               <item>
+                  <hi>Ships</hi> to be entred within four dayes after arrival. <hi>p.</hi> 2.</item>
+               <item>
+                  <hi>Strangers</hi> Veſſels not to trade from Port to Port. <hi>p.</hi> 2.</item>
+               <item>Bills at <hi>ſight. p.</hi> 10.</item>
+               <item>
+                  <hi>Strangers</hi> Goods entred in <hi>Engliſh-mens</hi> names. <hi>p.</hi> 4.</item>
+               <item>
+                  <hi>Searchers</hi> conniving at the Exportation of Bullion, <hi>&amp;c. p.</hi> 4.</item>
+               <item>
+                  <hi>Saltery</hi> Wares. <hi>p.</hi> 4.</item>
+               <item>What <hi>ſtrangers</hi> ſhall pay. <hi>p.</hi> 5.</item>
+               <item>What <hi>ſtrangers</hi> ſhall pay upon native Commodities. <hi>p.</hi> 5.</item>
+               <item>
+                  <hi>Snowt Towe. p.</hi> 5.</item>
+               <item>
+                  <hi>Slate ſtones. p.</hi> 6.</item>
+               <item>What <hi>Ships</hi> to be reputed ſtrangers, &amp; what <hi>Engliſh. p.</hi> 6.</item>
+               <item>
+                  <hi>Ships</hi> bought beyond the Seas. <hi>p.</hi> 7.</item>
+               <item>Goods allowed for <hi>ſtore, &amp;c.</hi> to be rated. <hi>p.</hi> 7.</item>
+               <item>
+                  <hi>Store</hi> and Portage. <hi>p.</hi> 8.</item>
+               <item>
+                  <hi>Ships</hi> unlading part, &amp; exporting the reſt. <hi>p.</hi> 9.</item>
+               <pb facs="tcp:39352:19"/>
+               <item> Directions touching <hi>Seizures</hi> and Demiſes. <hi>p.</hi> 28.</item>
+               <item>Allowance of half <hi>Subſidy. p.</hi> 10.</item>
+            </list>
+            <list>
+               <head>T.</head>
+               <item>
+                  <hi>Tobaccoes. p.</hi> 5.</item>
+               <item>
+                  <hi>Tares. p.</hi> 16.</item>
+               <item>
+                  <hi>Tobacco-Pipe</hi> Clay. <hi>p.</hi> 23.</item>
+            </list>
+            <list>
+               <head>W.</head>
+               <item>
+                  <hi>Warrants</hi> to be paſſed in Cuſtom-houſe only. <hi>p.</hi> 2.</item>
+               <item>
+                  <hi>Warrants</hi> to be delivered to the Officers before Goods be landed or ſhipped. <hi>p.</hi> 2.</item>
+               <item>Officers making <hi>falſe Warrants. p.</hi> 4.</item>
+               <item>
+                  <hi>Wines. p.</hi> 5.</item>
+               <item>
+                  <hi>Wrappers. p.</hi> 7.</item>
+               <item>
+                  <hi>Weights. p.</hi> 7.</item>
+               <item>No half Subſidy upon <hi>Wines,</hi> &amp;c <hi>p.</hi> 12.</item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
